@@ -17,8 +17,8 @@
 | [[map-of-contents/red-team\|red-team]]                 | true       |
 | [[map-of-contents/blue-team\|blue-team]]               | true       |
 | [[map-of-contents/windows\|windows]]                   | true       |
-| [[map-of-contents/web\|web]]                           | true       |
 | [[map-of-contents/sec plus\|sec plus]]                 | true       |
+| [[map-of-contents/web\|web]]                           | true       |
 
 { .block-language-dataview}
 

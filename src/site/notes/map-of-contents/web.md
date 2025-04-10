@@ -5,9 +5,7 @@
 [[input\|input]]
 
 **A map can exist inside a map.**
-## >web< -  M.O.C
 
-**Note:** only use tags if the list is very long.
 | File                                                                                                                               | dg-publish |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[cards/web/80% of UI Design Is Typography\|80% of UI Design Is Typography]]                                                    | true       |
