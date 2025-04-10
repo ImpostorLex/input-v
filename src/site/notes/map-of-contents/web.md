@@ -20,6 +20,3 @@
 
 { .block-language-dataview}
 
-### Learning Objective
----
-
