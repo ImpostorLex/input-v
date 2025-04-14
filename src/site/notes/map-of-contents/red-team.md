@@ -10,8 +10,8 @@
 | File                                                     | dg-publish |
 | -------------------------------------------------------- | ---------- |
 | [[cards/red-team/Cyber Kill Chain\|Cyber Kill Chain]] | \-         |
-| [[cards/red-team/Phishing\|Phishing]]                 | \-         |
 | [[cards/red-team/MITRE ATT&CK\|MITRE ATT&CK]]         | true       |
+| [[cards/red-team/Phishing\|Phishing]]                 | \-         |
 | [[cards/red-team/Threat Emulation\|Threat Emulation]] | \-         |
 
 { .block-language-dataview}

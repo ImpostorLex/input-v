@@ -12,6 +12,7 @@
 > - [[cards/blue-team/digital-forensics/Digital Forensics\|Digital Forensics]]
 > - [[Incident Response\|Incident Response]]
 > - [[cards/blue-team/threat-intelligence/Threat Intelligence\|Threat Intelligence]]
+> - [[cards/blue-team/threat-hunting/Threat Hunting\|Threat Hunting]]
 
 > [!map]- Digital Forensics
 >  | File                                                                                                              | Last Modified               |
@@ -82,8 +83,8 @@
 > | -------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 > | [[cards/blue-team/siem/Enabling Suricata and Sending Logs to Wazuh\|Enabling Suricata and Sending Logs to Wazuh]] | 9:06 PM - August 22, 2024   |
 > | [[cards/blue-team/siem/SOC Core Skills\|SOC Core Skills]]                                                         | 6:33 PM - January 21, 2025  |
+> | [[cards/blue-team/siem/splunk/Splunk\|Splunk]]                                                                    | 1:04 PM - April 13, 2025    |
 > | [[cards/blue-team/siem/Security Information and Event Management\|Security Information and Event Management]]     | 2:33 PM - February 26, 2025 |
-> | [[cards/blue-team/siem/Splunk\|Splunk]]                                                                           | 3:32 PM - February 09, 2025 |
 > | [[cards/blue-team/siem/Structured Log Analysis\|Structured Log Analysis]]                                         | 2:38 PM - February 03, 2025 |
 > | [[cards/blue-team/siem/Common Attack Signatures\|Common Attack Signatures]]                                       | 5:54 PM - February 01, 2025 |
 > | [[cards/blue-team/siem/Command-Line Log Analysis\|Command-Line Log Analysis]]                                     | 4:32 PM - February 27, 2025 |
@@ -92,6 +93,9 @@
 > | [[cards/blue-team/siem/CAS - XSS\|CAS - XSS]]                                                                     | 5:48 PM - February 01, 2025 |
 > | [[cards/blue-team/siem/CAS - SQL Injection\|CAS - SQL Injection]]                                                 | 5:43 PM - February 01, 2025 |
 > | [[cards/blue-team/siem/CAS - User Behavior\|CAS - User Behavior]]                                                 | 5:34 PM - February 01, 2025 |
+> | [[cards/blue-team/siem/SOC L1 Triage\|SOC L1 Triage]]                                                             | 7:18 PM - April 13, 2025    |
+> | [[cards/blue-team/siem/Splunk Map\|Splunk Map]]                                                                   | 1:05 PM - April 13, 2025    |
+> | [[cards/blue-team/siem/splunk/Splunk Data Manipulation\|Splunk Data Manipulation]]                                | 10:43 AM - April 14, 2025   |
 > 
 { .block-language-dataview}
 
@@ -105,6 +109,13 @@
 > | [[cards/blue-team/threat-intelligence/MITRE ATT&CK\|MITRE ATT&CK]]                                                 | 5:54 PM - February 12, 2025  |
 > | [[cards/blue-team/threat-intelligence/Cyber Kill Chain\|Cyber Kill Chain]]                                         | 10:10 AM - February 12, 2025 |
 > | [[cards/blue-team/threat-intelligence/Diamond Model of Intrusion Analysis\|Diamond Model of Intrusion Analysis]]   | 9:19 PM - February 11, 2025  |
+> 
+{ .block-language-dataview}
+
+> [!map]+ Threat Hunting
+>  | File                                                                 | Last Modified            |
+> | -------------------------------------------------------------------- | ------------------------ |
+> | [[cards/blue-team/threat-hunting/Threat Hunting\|Threat Hunting]] | 3:29 PM - April 14, 2025 |
 > 
 { .block-language-dataview}
 
