@@ -121,4 +121,14 @@
 > 
 { .block-language-dataview}
 
-
+> [!map]+ Incident Response
+>  | File                                                                      | Last Modified               |
+> | ------------------------------------------------------------------------- | --------------------------- |
+> | [[cards/blue-team/incident-response/Containment\|Containment]]         | 7:16 PM - April 21, 2025    |
+> | [[cards/blue-team/incident-response/Eradication\|Eradication]]         | 7:16 PM - April 21, 2025    |
+> | [[cards/blue-team/incident-response/Identification\|Identification]]   | 6:51 PM - February 20, 2025 |
+> | [[cards/blue-team/incident-response/Preparation\|Preparation]]         | 5:39 PM - February 20, 2025 |
+> | [[cards/blue-team/incident-response/Lessons Learned\|Lessons Learned]] | 8:32 PM - February 20, 2025 |
+> | [[cards/blue-team/incident-response/Recovery\|Recovery]]               | 7:57 PM - February 20, 2025 |
+> 
+{ .block-language-dataview}

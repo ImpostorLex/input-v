@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/incident-response/containment/"}
 ---
 
-[[Incident Response\|Incident Response]]
+[[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 The stage where we identified a legitimate security incident, the goal now is to limit the potential impact or damage.
