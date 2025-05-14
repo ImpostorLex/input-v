@@ -10,7 +10,7 @@ A framework to model the steps and details of a cyber attack taken by certain gr
 _Why it is important for any cybersecurity personnel?_ It maps out the action needed for each stage of a cyber attack as well as it focuses on **techniques** used not the tools used by the attackers..
 ## Pre-requisites/Modules
 ---
-- [[cards/Security+/Tactics, Techniques, Procedures\|Tactics, Techniques, Procedures]]
+- [[cards/blue-team/threat-intelligence/Tactics, Techniques, Procedures\|Tactics, Techniques, Procedures]]
 - [[cards/blue-team/threat-intelligence/Pyramid of Pain\|Pyramid of Pain]]
 - [[cards/blue-team/threat-intelligence/Intel-Driven Adversary Emulation Plans\|Intel-Driven Adversary Emulation Plans]]
 ## Mapping CTI to ATT&CK

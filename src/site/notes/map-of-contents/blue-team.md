@@ -102,6 +102,7 @@
 > [!map]- Threat Intelligence
 >  | File                                                                                                                      | Last Modified             |
 > | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+> | [[cards/blue-team/threat-intelligence/Tactics, Techniques, Procedures\|Tactics, Techniques, Procedures]]               | 7:20 PM - April 21, 2025  |
 > | [[cards/blue-team/threat-intelligence/Pyramid of Pain\|Pyramid of Pain]]                                               | 6:49 PM - April 21, 2025  |
 > | [[cards/blue-team/threat-intelligence/YARA\|YARA]]                                                                     | 6:50 PM - April 21, 2025  |
 > | [[cards/blue-team/threat-intelligence/Threat Intelligence\|Threat Intelligence]]                                       | 6:49 PM - April 21, 2025  |
