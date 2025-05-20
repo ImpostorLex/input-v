@@ -15,5 +15,6 @@
 | [[cards/windows/Session Manager Subsystem (smss.exe)\|Session Manager Subsystem (smss.exe)]] | true       |
 | [[cards/windows/System (Windows Process)\|System (Windows Process)]]                         | true       |
 | [[cards/windows/Windows Registry\|Windows Registry]]                                         | true       |
+| [[cards/windows/Windows Hardening\|Windows Hardening]]                                       | true       |
 
 { .block-language-dataview}
