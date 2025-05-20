@@ -93,7 +93,6 @@
 > | [[cards/blue-team/siem/CAS - XSS\|CAS - XSS]]                                                                     | 5:48 PM - February 01, 2025 |
 > | [[cards/blue-team/siem/CAS - SQL Injection\|CAS - SQL Injection]]                                                 | 5:43 PM - February 01, 2025 |
 > | [[cards/blue-team/siem/CAS - User Behavior\|CAS - User Behavior]]                                                 | 5:34 PM - February 01, 2025 |
-> | [[cards/blue-team/siem/SOC L1 Triage\|SOC L1 Triage]]                                                             | 5:04 PM - April 19, 2025    |
 > | [[cards/blue-team/siem/Splunk Map\|Splunk Map]]                                                                   | 1:05 PM - April 13, 2025    |
 > | [[cards/blue-team/siem/splunk/Splunk Data Manipulation\|Splunk Data Manipulation]]                                | 10:43 AM - April 14, 2025   |
 > 
@@ -133,3 +132,5 @@
 > | [[cards/blue-team/incident-response/Recovery\|Recovery]]               | 7:57 PM - February 20, 2025 |
 > 
 { .block-language-dataview}
+
+

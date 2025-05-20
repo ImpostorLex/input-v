@@ -17,8 +17,8 @@
 | [[map-of-contents/linux\|linux]]                       | true       |
 | [[map-of-contents/flashcards\|flashcards]]             | false      |
 | [[map-of-contents/concepts\|concepts]]                 | true       |
-| [[map-of-contents/blue-team\|blue-team]]               | true       |
 | [[map-of-contents/active-directory\|active-directory]] | true       |
+| [[map-of-contents/blue-team\|blue-team]]               | true       |
 
 { .block-language-dataview}
 
