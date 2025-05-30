@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/map-of-contents/concepts/","tags":["map"]}
 ---
 
-[[map-of-contents/map\|map]]
+~ [[map-of-contents/map\|map]]
 
 **A map can exist inside a map.**
 

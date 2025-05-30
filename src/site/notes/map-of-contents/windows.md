@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/map-of-contents/windows/","tags":["map"]}
 ---
 
-[[map-of-contents/map\|map]]
+~ [[map-of-contents/map\|map]]
 
 **A map can exist inside a map.**
 
@@ -18,3 +18,12 @@
 | [[cards/windows/Windows Registry\|Windows Registry]]                                         | true       |
 
 { .block-language-dataview}
+
+> [!bug]+ Attacking Windows
+>  | File                                                     | dg-publish |
+> | -------------------------------------------------------- | ---------- |
+> | [[cards/red-team/Lay off the Land\|Lay off the Land]] | true       |
+> 
+{ .block-language-dataview}
+
+

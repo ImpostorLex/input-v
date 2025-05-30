@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/map-of-contents/active-directory/","tags":["map"]}
 ---
 
-[[map-of-contents/map\|map]]
+~ [[map-of-contents/map\|map]]
 
 **A map can exist inside a map.**
 
@@ -20,8 +20,8 @@
 > [!bug]+ Pentest Active Directory
 >  | File                                                                                                                 | dg-publish |
 > | -------------------------------------------------------------------------------------------------------------------- | ---------- |
-> | [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]] | true       |
 > | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                             | true       |
+> | [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]] | true       |
 > 
 { .block-language-dataview}
 

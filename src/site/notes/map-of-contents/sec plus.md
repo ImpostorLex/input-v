@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/map-of-contents/sec-plus/","tags":["map"]}
+{"dg-publish":true,"permalink":"/map-of-contents/sec-plus/","tags":["map","closed"]}
 ---
 
-[[input\|input]]
+~ [[input\|input]]
 
 > [!MOC]+ Map of Content
 > ```dataview

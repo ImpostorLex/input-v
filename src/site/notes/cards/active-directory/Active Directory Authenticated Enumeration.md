@@ -5,21 +5,22 @@
 [[map-of-contents/active-directory\|active-directory]]
 ### Introduction
 ---
-Techniques used once we have access to an authenticated account, the learning objectives are:
+Demonstrate the techniques used once we have access to an authenticated account, the learning objectives are:
 
 - AS-REP Roasting
-- Using the `net` command for enumeration among others
+- Using the `net` command for enumeration among other commands such as `set`, `hostname`, and `systeminfo`.
 - Enumeration using the ActiveDirectory PowerShell module
 - Enumeration using PowerSploit’s PowerView module
 - Enumeration with BloodHound
+
 ## Prerequisites
 ---
-- [[Active Directory Basic Enumeration\|Active Directory Basic Enumeration]]
+- [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]
 - [[cards/active-directory/Active Directory\|Active Directory]] fundamentals.
 
 ## AS-REP Roasting in Two Phases
 ---
-Similarly to [[Kerberoasting\|Kerberoasting]], AS-REP Roasting dumps user account hashes that have Kerberos pre-authentication disabled - in Kerberoasting, these accounts do not need to be a service account - the only requirement is that the “Do not require Kerberos pre-authentication” flag (`UF_DONT_REQUIRE_PREAUTH`) is set on the user account.
+Similarly to [[cards/active-directory/Kerberos\|Kerberoasting]], AS-REP Roasting dumps user account hashes that have Kerberos pre-authentication disabled - in Kerberoasting, these accounts do not need to be a service account - the only requirement is that the “Do not require Kerberos pre-authentication” flag (`UF_DONT_REQUIRE_PREAUTH`) is set on the user account.
 
 In Kerboros authentication the user's hash encrypts a timestamp which then the [[Key Distribution Center\|Key Distribution Center]] decrypt's the hash to verify the user's identity, if pre-authentication is disabled, the KDC skips this verification step and returns an encrypted AS-REP blob without confirming the user’s identity, the blob can be captured and cracked offline.
 
@@ -44,7 +45,6 @@ GetNPUsers.py tryhackme.loc/ -dc-ip 10.211.12.10 -usersfile users.txt -format ha
 Output:
 
 ![Pasted image 20250525080934.png|center](/img/user/cards/active-directory/images/Pasted%20image%2020250525080934.png)
-
 
 
 2. Capture and crack the retrieved AS-REP hashes offline. 
