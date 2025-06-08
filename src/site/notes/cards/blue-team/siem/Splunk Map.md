@@ -6,7 +6,7 @@
 
 | File                                                                                  |
 | ------------------------------------------------------------------------------------- |
-| [[cards/blue-team/siem/splunk/Splunk\|Splunk]]                                     |
 | [[cards/blue-team/siem/splunk/Splunk Data Manipulation\|Splunk Data Manipulation]] |
+| [[cards/blue-team/siem/splunk/Splunk\|Splunk]]                                     |
 
 { .block-language-dataview}

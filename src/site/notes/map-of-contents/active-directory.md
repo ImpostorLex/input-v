@@ -20,9 +20,9 @@
 > [!bug]+ Pentest Active Directory
 >  | File                                                                                                                 | dg-publish |
 > | -------------------------------------------------------------------------------------------------------------------- | ---------- |
-> | [[cards/red-team/Reconnaissance - Red Team\|Reconnaissance - Red Team]]                                           | true       |
 > | [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]] | true       |
 > | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                             | true       |
+> | [[cards/red-team/Reconnaissance - Red Team\|Reconnaissance - Red Team]]                                           | true       |
 > 
 { .block-language-dataview}
 
