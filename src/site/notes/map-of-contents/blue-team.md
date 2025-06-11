@@ -64,10 +64,10 @@
 >  | File                                                                                                                                                                     | Last Modified               |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
 > | [[cards/blue-team/phishing/Headers to look out for\|Headers to look out for]]                                                                                         | 6:46 PM - April 21, 2025    |
+> | [[cards/blue-team/phishing/Attachment Examination\|Attachment Examination]]                                                                                           | 9:09 PM - June 11, 2025     |
 > | [[cards/blue-team/phishing/URL Analysis\|URL Analysis]]                                                                                                               | 6:50 PM - April 21, 2025    |
 > | [[cards/blue-team/phishing/Reactive Phishing Defense\|Reactive Phishing Defense]]                                                                                     | 6:47 PM - April 21, 2025    |
 > | [[cards/blue-team/phishing/Content Examination\|Content Examination]]                                                                                                 | 6:46 PM - April 21, 2025    |
-> | [[cards/blue-team/phishing/Attachment Examination\|Attachment Examination]]                                                                                           | 6:46 PM - April 21, 2025    |
 > | [[cards/blue-team/phishing/Proactive Phishing Defense\|Proactive Phishing Defense]]                                                                                   | 6:47 PM - April 21, 2025    |
 > | [[cards/blue-team/phishing/Sender Policy Framework (SPF)\|Sender Policy Framework (SPF)]]                                                                             | 6:47 PM - April 21, 2025    |
 > | [[cards/blue-team/phishing/DomainKeys Identified Mail (DKIM)\|DomainKeys Identified Mail (DKIM)]]                                                                     | 6:46 PM - April 21, 2025    |
