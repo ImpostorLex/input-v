@@ -75,6 +75,7 @@
 > | [[cards/blue-team/phishing/Email Analysis\|Email Analysis]]                                                                                                           | 9:53 AM - February 28, 2025 |
 > | [[cards/blue-team/phishing/Phishing\|Phishing]]                                                                                                                       | 5:45 PM - April 10, 2025    |
 > | [[cards/blue-team/phishing/Email\|Email]]                                                                                                                             | 5:44 PM - April 10, 2025    |
+> | [[cards/blue-team/phishing/images/Analyzing MalDocs - Malware\|Analyzing MalDocs - Malware]]                                                                          | 8:46 PM - June 11, 2025     |
 > 
 { .block-language-dataview}
 

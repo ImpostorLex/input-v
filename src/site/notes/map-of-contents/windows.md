@@ -12,19 +12,22 @@
 | [[cards/windows/Dynamic Link Library\|Dynamic Link Library]]                                 | true       |
 | [[cards/windows/Server Runtime Subsystem (csrss.exe)\|Server Runtime Subsystem (csrss.exe)]] | true       |
 | [[cards/windows/Service Host (svchost.exe)\|Service Host (svchost.exe)]]                     | true       |
+| [[cards/windows/Windows Hardening\|Windows Hardening]]                                       | true       |
 | [[cards/windows/Session Manager Subsystem (smss.exe)\|Session Manager Subsystem (smss.exe)]] | true       |
+| [[cards/windows/Windows Registry\|Windows Registry]]                                         | true       |
 | [[cards/windows/System (Windows Process)\|System (Windows Process)]]                         | true       |
 | [[cards/windows/Windows API\|Windows API]]                                                   | true       |
-| [[cards/windows/Windows Hardening\|Windows Hardening]]                                       | true       |
 | [[cards/windows/Windows Internals\|Windows Internals]]                                       | true       |
-| [[cards/windows/Windows Registry\|Windows Registry]]                                         | true       |
+| [[cards/windows/hook\|hook]]                                                                 | true       |
 
 { .block-language-dataview}
 
 > [!bug]+ Attacking Windows
->  | File                                                     | dg-publish |
-> | -------------------------------------------------------- | ---------- |
-> | [[cards/red-team/Lay off the Land\|Lay off the Land]] | true       |
+>  | File                                                                              | dg-publish |
+> | --------------------------------------------------------------------------------- | ---------- |
+> | [[cards/red-team/Lay off the Land\|Lay off the Land]]                          | true       |
+> | [[cards/red-team/images/Abusing Windows Internals\|Abusing Windows Internals]]                       | true       |
+> | [[cards/red-team/images/Abusing Windows Internals\|Abusing Windows Internals]] | true       |
 > 
 { .block-language-dataview}
 

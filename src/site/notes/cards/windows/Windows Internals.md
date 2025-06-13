@@ -6,30 +6,29 @@
 ### Introduction
 ---
 To be a better red-teamer, it's important to understand what is Windows Internals and how they can be (ab)used such as using it to evade security controls and crafting offensive tools for exploitation.
-
 ### Key Topics
 ---
 - [[cards/windows/Windows Internals#Processes\|Processes – Structure of a process, its components, and why it matters for execution]]
 - [[cards/windows/Windows Internals#Threads\|Threads – How threads control execution and how they are manipulated in attacks]]
 - [[cards/windows/Windows Internals#Virtual Memory\|Virtual Memory – Isolation, memory management, and its role in injection techniques]]
 - [[cards/windows/Windows Internals#DLL\|DLL – How DLLs are loaded, and common abuse techniques like injection and hijacking]]
-## Prerequisites
+### Prerequisites
 ---
 - Windows Fundamental
 ## Processes
 ---
 It represents an execution of a program, an application or program can contain one or more processes and the process provides the resources needed to execute a program.
 
-~ related [[cards/blue-team/endpoint-security/Windows Process Analysis\|Windows Process Analysis]].
+~ related [[cards/blue-team/endpoint-security/Windows Process Analysis\|Windows Process Analysis]] and how Windows internals is abused [[cards/red-team/images/Abusing Windows Internals\|here]].
 
-| **Process Component**         | **Description**                                                                                                                                                                                      |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Private Virtual Address Space | Memory allocated exclusively for the process, including code, data, stack, etc.                                                                                                                      |
-| Executable Program            | The compiled code and data loaded into memory for execution.                                                                                                                                         |
-| Open Handles                  | References to system resources like files, sockets, or registry keys.                                                                                                                                |
-| Security Context              | Access token defining user identity, groups, and privileges.                                                                                                                                         |
-| Process ID (PID)              | Unique number assigned by the OS to identify the process.                                                                                                                                            |
-| Threads                       | Smallest unit of execution within a process -- basically allows multiple functions/instructions to be executed by the CPU at the same time inside one process - shares the same memory and resource. |
+| **Process Component**                              | **Description**                                                                                                                                                                                               |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[cards/windows/Windows Internals#Virtual Memory\|Private Virtual Address Space]] | Memory allocated exclusively for the process, including code, data, stack, etc.                                                                                                                               |
+| Executable Program                                 | The compiled code and data loaded into memory for execution.                                                                                                                                                  |
+| Open Handles                                       | References to system resources like files, sockets, or registry keys. basically a handle to system resources accessible by the program. In python example file handle such as `open("example.txt, "r")` code. |
+| Security Context                                   | Access token defining user identity, groups, and privileges.                                                                                                                                                  |
+| Process ID (PID)                                   | Unique number assigned by the OS to identify the process.                                                                                                                                                     |
+| Threads                                            | Smallest unit of execution within a process -- basically allows multiple functions/instructions to be executed by the CPU at the same time inside one process - shares the same memory and resource.          |
 ## Threads
 ---
 - It's a smallest unit of execution within a process, it represents an instruction that can be scheduled to be executed by the CPU.
@@ -76,12 +75,15 @@ Virtual memory is a **core part of how Windows handles memory**. It gives each p
 
 This makes memory usage **safer**, **more efficient**, and **more flexible**.
 
-#### How Virtual Memory Works (Simplified)
+#### How Virtual Memory Works
 ---
 - Every process gets its **own virtual address space** — completely isolated from others.
+
 - The **Memory Manager** handles translating these virtual addresses into actual **physical RAM** or **disk** if needed.
 	- When Process A writes to memory address `0x12340000`, and Process B writes to the _same_ address — they’re actually writing to **different physical locations**.
-- Windows uses **paging** to swap memory between RAM and disk when necessary.
+
+- Windows uses **paging** to swap memory between RAM and disk when necessary, basically move infrequently used parts of a program's virtual memory from RAM to disk, freeing up RAM for active processes while preserving data for later use.
+
 - This abstraction keeps processes from overwriting each other’s memory. 
 
 **Injection, Execution, and Evasion:**

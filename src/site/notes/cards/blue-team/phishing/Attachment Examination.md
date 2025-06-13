@@ -50,7 +50,7 @@ python3 ../Tools/oledump.py AR_Wedding_RSVP.docm -s 3 --vbadecompresscorrupt
 pdf-parser.py <mal.pdf>
 ```
 
-![Attachment Examination.png](/img/user/Attachment%20Examination.png)
+![Attachment Examination.png](/img/user/cards/blue-team/soc/images/Attachment%20Examination.png)
 
 Search for a specific key such as a `URL` or a `URI` to search in the data streams:
 
@@ -58,7 +58,7 @@ Search for a specific key such as a `URL` or a `URI` to search in the data strea
 pdf-parser <mal.pdf> -s "/URI"
 ```
 
-![Attachment Examination-1.png](/img/user/Attachment%20Examination-1.png)
+![Attachment Examination-1.png](/img/user/cards/blue-team/phishing/images/Attachment%20Examination-1.png)
 
 **pdf-id** can scan a pdf file and give a high level overview:
 
@@ -66,7 +66,7 @@ pdf-parser <mal.pdf> -s "/URI"
 pdf-id.py <file.pdf_
 ```
 
-![Attachment Examination-2.png|450](/img/user/Attachment%20Examination-2.png)
+![Attachment Examination-2.png|450](/img/user/cards/blue-team/phishing/images/Attachment%20Examination-2.png)
 
 Things to look out for:
 
@@ -81,12 +81,12 @@ Then we can use `pdf-parse.py` to further analyze the `.pdf`:
 pdf-parser.py <file.pdf>
 ```
 
-![Attachment Examination-3.png](/img/user/Attachment%20Examination-3.png)
+![Attachment Examination-3.png](/img/user/cards/blue-team/phishing/images/Attachment%20Examination-3.png)
 The Javascript is basically used to launch the embedded file which in this case  **eicar-dropper.doc**, to extract the file:
 
 The object (.doc) file is located at **object 8** in our case:
 
-![Attachment Examination-4.png](/img/user/Attachment%20Examination-4.png)
+![Attachment Examination-4.png](/img/user/cards/blue-team/phishing/images/Attachment%20Examination-4.png)
 
 ```C
 pdf-parser.py <file.pdf> --object 8 --filter --raw --dump <good_file_name>
