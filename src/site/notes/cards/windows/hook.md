@@ -3,7 +3,7 @@
 ---
 
 ~ [[cards/windows/Windows Internals\|Windows Internals]]
-~ [[cards/red-team/images/Abusing Windows Internals#Memory Execution Alternatives\|Abusing Windows Internals]]
+~ [[cards/red-team/Abusing Windows Internals#Memory Execution Alternatives\|Abusing Windows Internals]]
 
 A **hook** is a technique used to **intercept function calls, messages, or events** before they reach their intended destination. In other words a checkpoint done usually by security controls such as Endpoint Detection and Response tools (EDR), **antivirus software**, or **debuggers** to monitor, modify, or block the behavior of a program at runtime.
 

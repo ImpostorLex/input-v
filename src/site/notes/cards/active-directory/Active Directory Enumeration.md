@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/active-directory/active-directory-enumeration/","tags":["ad/red-team"]}
+{"dg-publish":true,"permalink":"/cards/active-directory/active-directory-enumeration/","tags":["red-team/ad"]}
 ---
 
 [[map-of-contents/active-directory\|active-directory]]
@@ -13,14 +13,14 @@ The topology of the environment:
 #### Key Topics
 ---
 
-- [[cards/active-directory/Active Directory Enumeration#Host Discovery\|Host discovery using fping and nmap to identify live hosts and Domain Controllers]]
-- [[cards/active-directory/Active Directory Enumeration#Listing SMB Shares\|Enumerating SMB shares anonymously using smbclient and smbmap]]
-- [[cards/active-directory/Active Directory Enumeration#LDAP Enumeration (Anonymous Bind)\|Anonymous LDAP queries to enumerate users and domain data]]
-- [[cards/active-directory/Active Directory Enumeration#Enum4linux-ng\|Enumerating AD info via SMB and RPC with enum4linux-ng]]
-- [[cards/active-directory/Active Directory Enumeration#RPC Enumeration (Null Sessions)\|RPC enumeration using null sessions with rpcclient]]
-- [[cards/active-directory/Active Directory Enumeration#RID Cycling\|Enumerating users via RID cycling in RPC]]
-- [[cards/active-directory/Active Directory Enumeration#Username Enumeration With Kerbrute\|Validating usernames against Kerberos using kerbrute]]
-- [[cards/active-directory/Active Directory Enumeration#Password Spraying\|Performing password spray attacks after discovering policy]]
+- [[#Host Discovery|Host discovery using fping and nmap to identify live hosts and Domain Controllers]]
+- [[#Listing SMB Shares|Enumerating SMB shares anonymously using smbclient and smbmap]]
+- [[#LDAP Enumeration (Anonymous Bind)|Anonymous LDAP queries to enumerate users and domain data]]
+- [[#Enum4linux-ng|Enumerating AD info via SMB and RPC with enum4linux-ng]]
+- [[#RPC Enumeration (Null Sessions)|RPC enumeration using null sessions with rpcclient]]
+- [[#RID Cycling|Enumerating users via RID cycling in RPC]]
+- [[#Username Enumeration With Kerbrute|Validating usernames against Kerberos using kerbrute]]
+- [[#Password Spraying|Performing password spray attacks after discovering policy]]
 
 ### Prerequisites
 ---

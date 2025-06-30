@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/images/abusing-dl-ls/"}
 ---
 
-~ [[cards/red-team/images/Abusing Windows Internals\|Abusing Windows Internals]]
+~ [[cards/red-team/Abusing Windows Internals\|Abusing Windows Internals]]
 ### Introduction
 ---
 **DLL injection** is a technique used to run custom code inside the address space of another process by forcing that process to load a **Dynamic Link Library (DLL)** that contains the malicious.

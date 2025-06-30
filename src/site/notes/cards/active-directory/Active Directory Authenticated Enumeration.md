@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/active-directory/active-directory-authenticated-enumeration/","tags":["ad/red-team"]}
+{"dg-publish":true,"permalink":"/cards/active-directory/active-directory-authenticated-enumeration/","tags":["red-team/ad"]}
 ---
 
 [[map-of-contents/active-directory\|active-directory]]

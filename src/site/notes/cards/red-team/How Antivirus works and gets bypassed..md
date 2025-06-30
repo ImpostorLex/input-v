@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/how-antivirus-works-and-gets-bypassed/"}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]] 
+~ [[map-of-contents/red-team\|red-team]]
 ### Introduction 
 ---
 It's a host-based security solution designed to detect and prevent the execution of malicious files on the targeted operating system. It is running in the background by default.
@@ -11,11 +11,11 @@ It's a host-based security solution designed to detect and prevent the execution
 > Antivirus looks for predefined patterns or signatures, while an EDR can do what most Antivirus can do plus can perform security checks on file activities, memory, network connections, Windows registry, processes, and more.
 #### Key Topics
 ---
- - [[cards/red-team/How Antivirus works and gets bypassed.#Features\|Core components of antivirus systems, including scanning, detection methods, unpackers, and emulators]]
+ - [[#Features|Core components of antivirus systems, including scanning, detection methods, unpackers, and emulators]]
     
-- [[cards/red-team/How Antivirus works and gets bypassed.#Detection Techniques\|Overview of detection strategies such as signature-based, heuristic, dynamic analysis, and YARA rules]]
+- [[#Detection Techniques|Overview of detection strategies such as signature-based, heuristic, dynamic analysis, and YARA rules]]
     
-- [[cards/red-team/How Antivirus works and gets bypassed.#What the Red Teamer should do\|Red team tactics for antivirus evasion, fingerprinting installed AVs, and using external testing platforms]]
+- [[#What the Red Teamer should do|Red team tactics for antivirus evasion, fingerprinting installed AVs, and using external testing platforms]]
 ## Features
 ---
 

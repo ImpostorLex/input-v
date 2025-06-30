@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/images/abusing-process-components/"}
 ---
 
-~ [[cards/red-team/images/Abusing Windows Internals\|Abusing Windows Internals]]
+~ [[cards/red-team/Abusing Windows Internals\|Abusing Windows Internals]]
 ### Introduction
 ---
 Thread hijacking is a technique used by attackers to inject code (shellcode) into an existing **thread** of a legitimate process, then **redirect** that thread to execute their **malicious code** instead.

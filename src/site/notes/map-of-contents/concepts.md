@@ -9,6 +9,6 @@
 **Note:** only use tags if the list is overwhelming.
 | File                                                                                       | dg-publish |
 | ------------------------------------------------------------------------------------------ | ---------- |
-| [[cards/concepts/Digital Oceans Writing Guidelines\|Digital Oceans Writing Guidelines]] | \-         |
+| [[cards/concepts/Digital Oceans Writing Guidelines\|Digital Oceans Writing Guidelines]] | true       |
 
 { .block-language-dataview}

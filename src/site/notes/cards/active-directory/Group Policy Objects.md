@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/active-directory/group-policy-objects/","tags":["sunday","ad"]}
+{"dg-publish":true,"permalink":"/cards/active-directory/group-policy-objects/","tags":["windows/ad"]}
 ---
 
 [[map-of-contents/active-directory\|active-directory]]

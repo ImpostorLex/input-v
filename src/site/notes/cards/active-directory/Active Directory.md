@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/active-directory/active-directory/","tags":["sunday","#MOC","ad"]}
+{"dg-publish":true,"permalink":"/cards/active-directory/active-directory/","tags":["#MOC","windows/ad"]}
 ---
 
-[[Parent\|Parent]]
+[[map-of-contents/active-directory\|active-directory]]
 ### Introduction 
 ---
 It has many components but the core function of Active Directory is to provided **Authentication** and **Authorization**.

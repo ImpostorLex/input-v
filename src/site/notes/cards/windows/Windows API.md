@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/windows/windows-api/","tags":["ad/windows"]}
+{"dg-publish":true,"permalink":"/cards/windows/windows-api/","tags":["windows/ad"]}
 ---
 
 ~ [[map-of-contents/windows\|windows]]
@@ -9,15 +9,15 @@ The Windows API allows programs, or functions to interact with key components of
 #### Key Topics
 ---
 
-- [[cards/windows/Windows API#Subsystem and Hardware Interaction\|How Win32 API enables interaction with subsystems and hardware through user-mode and kernel-mode.]]
+- [[#Subsystem and Hardware Interaction|How Win32 API enables interaction with subsystems and hardware through user-mode and kernel-mode.]]
     
-- [[cards/windows/Windows API#Components of the Windows API\|Overview of the key components like header files, core DLLs, and how API calls are structured.]]
+- [[#Components of the Windows API|Overview of the key components like header files, core DLLs, and how API calls are structured.]]
     
-- [[cards/windows/Windows API#OS Libraries\|Explaining how the Windows header file and P/Invoke help with address resolution in the context of ASLR.]]
+- [[#OS Libraries|Explaining how the Windows header file and P/Invoke help with address resolution in the context of ASLR.]]
     
-- [[cards/windows/Windows API#API Call Structure\|Details on the naming conventions and character encoding distinctions in Win32 API calls.]]
+- [[#API Call Structure|Details on the naming conventions and character encoding distinctions in Win32 API calls.]]
     
-- [[cards/windows/Windows API#Commonly Abused API calls\|Examples of commonly abused API calls and their potential malicious use.]]
+- [[#Commonly Abused API calls|Examples of commonly abused API calls and their potential malicious use.]]
 
 ## Subsystem and Hardware Interaction
 ---

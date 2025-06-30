@@ -13,9 +13,9 @@ Pre-requisite:
 The most common networking mode used:
 
 - NAT mode
-- [[cards/networking/Virtualization Networking#NAT network\|Virtualization Networking]]
-- [[cards/networking/Virtualization Networking#Intnet\|Virtualization Networking]] (Internal Network)
-- [[cards/networking/Virtualization Networking# Bridge Adapter\|Virtualization Networking]]
+- [[#NAT network|Virtualization Networking]]
+- [[#Intnet|Virtualization Networking]] (Internal Network)
+- [[# Bridge Adapter|Virtualization Networking]]
 
 > [!importat]+ The IP address provided in the images are the defaults
 ## NAT MODE

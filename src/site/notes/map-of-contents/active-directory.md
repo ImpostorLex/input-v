@@ -8,21 +8,23 @@
 
 **Note:** only use tags if the list is overwhelming.
 
-| File                                                                                                       | dg-publish |
-| ---------------------------------------------------------------------------------------------------------- | ---------- |
-| [[cards/active-directory/Active Directory\|Active Directory]]                                           | true       |
-| [[cards/active-directory/Group Policy Objects\|Group Policy Objects]]                                   | true       |
-| [[cards/active-directory/Kerberos\|Kerberos]]                                                           | true       |
-| [[cards/active-directory/Lightweight Directory Access Protocol\|Lightweight Directory Access Protocol]] | true       |
+| File                                                                                                                 | dg-publish |
+| -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]] | true       |
+| [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                             | true       |
+| [[cards/active-directory/Active Directory\|Active Directory]]                                                     | true       |
+| [[cards/active-directory/Group Policy Objects\|Group Policy Objects]]                                             | true       |
+| [[cards/active-directory/Kerberos\|Kerberos]]                                                                     | true       |
+| [[cards/active-directory/Lightweight Directory Access Protocol\|Lightweight Directory Access Protocol]]           | true       |
 
 { .block-language-dataview}
 
-> [!bug]+ Pentest Active Directory
->  | File                                                                                                                 | dg-publish |
-> | -------------------------------------------------------------------------------------------------------------------- | ---------- |
-> | [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]] | true       |
-> | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                             | true       |
-> | [[cards/red-team/Reconnaissance - Red Team\|Reconnaissance - Red Team]]                                           | true       |
+> [!bug]+ Pentest Active Directory or Windows AD only
+>  | File                                                                        | dg-publish |
+> | --------------------------------------------------------------------------- | ---------- |
+> | [[cards/windows/Windows Internals\|Windows Internals]]                   | true       |
+> | [[Staged and Stageless\|Staged and Stageless]]                           | true       |
+> | [[Shellcode Encoding and Encrypting\|Shellcode Encoding and Encrypting]] | \-         |
 > 
 { .block-language-dataview}
 

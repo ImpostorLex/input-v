@@ -6,11 +6,8 @@
 
 **A map can exist inside a map.**
 
-| File                                                                              | dg-publish |
-| --------------------------------------------------------------------------------- | ---------- |
-| [[cards/red-team/Lay off the Land\|Lay off the Land]]                          | true       |
-| [[cards/red-team/images/Abusing Windows Internals\|Abusing Windows Internals]]                       | true       |
-| [[cards/red-team/images/Abusing Windows Internals\|Abusing Windows Internals]] | true       |
+| File | dg-publish |
+| ---- | ---------- |
 
 { .block-language-dataview}
 

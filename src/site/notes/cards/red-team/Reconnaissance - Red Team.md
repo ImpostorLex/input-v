@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/reconnaissance-red-team/","tags":["ad/red-team"]}
+{"dg-publish":true,"permalink":"/cards/red-team/reconnaissance-red-team/","tags":["red-team/ad"]}
 ---
 
 ~ [[map-of-contents/red-team\|red-team]]
@@ -20,15 +20,15 @@ There are two types of reconnaissance:
 #### Key Topics
 ---
 
-- [[cards/red-team/Reconnaissance - Red Team#Built-in Tools\|Use whois, traceroute to find out IP addresses and other details.]]
+- [[#Built-in Tools|Use whois, traceroute to find out IP addresses and other details.]]
     
-- [[cards/red-team/Reconnaissance - Red Team#Advanced Searching\|Leverage advanced search techniques for OSINT gathering.]]
+- [[#Advanced Searching|Leverage advanced search techniques for OSINT gathering.]]
     
-- [[cards/red-team/Reconnaissance - Red Team#Specialized Search Engines\|Use specialized search engines like Censys for detailed domain and IP data.]]
+- [[#Specialized Search Engines|Use specialized search engines like Censys for detailed domain and IP data.]]
     
-- [[cards/red-team/Reconnaissance - Red Team#Recon-ng\|Automate OSINT collection and organize results with Recon-ng.]]
+- [[#Recon-ng|Automate OSINT collection and organize results with Recon-ng.]]
     
-- [[cards/red-team/Reconnaissance - Red Team#Maltego\|Map relationships and visualize data with Maltego’s transforms.]]
+- [[#Maltego|Map relationships and visualize data with Maltego’s transforms.]]
 
 
 ## Built-in Tools

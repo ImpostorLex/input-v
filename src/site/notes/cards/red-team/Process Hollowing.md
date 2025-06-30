@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/process-hollowing/"}
 ---
 
-~ [[cards/red-team/images/Abusing Windows Internals\|Abusing Windows Internals]]
+~ [[cards/red-team/Abusing Windows Internals\|Abusing Windows Internals]]
 ### Introduction
 ---
 Allows the attackers to inject an entire malicious file into a process, this is accomplished by "hollowing" or un-mapping the process and injecting specific Portable Executable (PE) data and sections into the process.

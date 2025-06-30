@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/windows/windows-internals/","tags":["windows","ad/windows/red-team/host-evasion"]}
+{"dg-publish":true,"permalink":"/cards/windows/windows-internals/","tags":["windows","red-team/windows/ad/host-evasion"]}
 ---
 
 ~ [[map-of-contents/windows\|windows]]
@@ -8,10 +8,10 @@
 To be a better red-teamer, it's important to understand what is Windows Internals and how they can be (ab)used such as using it to evade security controls and crafting offensive tools for exploitation.
 ### Key Topics
 ---
-- [[cards/windows/Windows Internals#Processes\|Processes – Structure of a process, its components, and why it matters for execution]]
-- [[cards/windows/Windows Internals#Threads\|Threads – How threads control execution and how they are manipulated in attacks]]
-- [[cards/windows/Windows Internals#Virtual Memory\|Virtual Memory – Isolation, memory management, and its role in injection techniques]]
-- [[cards/windows/Windows Internals#DLL\|DLL – How DLLs are loaded, and common abuse techniques like injection and hijacking]]
+- [[#Processes|Processes – Structure of a process, its components, and why it matters for execution]]
+- [[#Threads|Threads – How threads control execution and how they are manipulated in attacks]]
+- [[#Virtual Memory|Virtual Memory – Isolation, memory management, and its role in injection techniques]]
+- [[#DLL|DLL – How DLLs are loaded, and common abuse techniques like injection and hijacking]]
 ### Prerequisites
 ---
 - Windows Fundamental
@@ -19,11 +19,11 @@ To be a better red-teamer, it's important to understand what is Windows Internal
 ---
 It represents an execution of a program, an application or program can contain one or more processes and the process provides the resources needed to execute a program.
 
-~ related [[cards/blue-team/endpoint-security/Windows Process Analysis\|Windows Process Analysis]] and how Windows internals is abused [[cards/red-team/images/Abusing Windows Internals\|here]].
+~ related [[cards/blue-team/endpoint-security/Windows Process Analysis\|Windows Process Analysis]] and how Windows internals is abused [[cards/red-team/Abusing Windows Internals\|here]].
 
 | **Process Component**                              | **Description**                                                                                                                                                                                               |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[cards/windows/Windows Internals#Virtual Memory\|Private Virtual Address Space]] | Memory allocated exclusively for the process, including code, data, stack, etc.                                                                                                                               |
+| [[#Virtual Memory\|Private Virtual Address Space]] | Memory allocated exclusively for the process, including code, data, stack, etc.                                                                                                                               |
 | Executable Program                                 | The compiled code and data loaded into memory for execution.                                                                                                                                                  |
 | Open Handles                                       | References to system resources like files, sockets, or registry keys. basically a handle to system resources accessible by the program. In python example file handle such as `open("example.txt, "r")` code. |
 | Security Context                                   | Access token defining user identity, groups, and privileges.                                                                                                                                                  |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/active-directory/lightweight-directory-access-protocol/","tags":["sunday","ad"]}
+{"dg-publish":true,"permalink":"/cards/active-directory/lightweight-directory-access-protocol/","tags":["windows/ad"]}
 ---
 
 [[map-of-contents/active-directory\|active-directory]]

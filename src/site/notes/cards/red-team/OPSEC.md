@@ -21,17 +21,17 @@ Each interaction made by red team leaves a 'dot' that dot can be connected by th
 #### Key Topics
 ---
 
-- [[cards/red-team/OPSEC#Critical Information Identification\|Details the types of information (client, tools, IPs, domains) that must be protected to avoid mission compromise.]]
+- [[#Critical Information Identification|Details the types of information (client, tools, IPs, domains) that must be protected to avoid mission compromise.]]
     
-- [[cards/red-team/OPSEC#Threat Analysis\|Covers identifying adversaries, their goals, and their methods—defining threats based on intent and capability.]]
+- [[#Threat Analysis|Covers identifying adversaries, their goals, and their methods—defining threats based on intent and capability.]]
     
-- [[cards/red-team/OPSEC#Vulnerability Analysis\|Explains OPSEC-specific vulnerabilities—how leaked information can be used by blue teams to disrupt red team activities.]]
+- [[#Vulnerability Analysis|Explains OPSEC-specific vulnerabilities—how leaked information can be used by blue teams to disrupt red team activities.]]
     
-- [[cards/red-team/OPSEC#Risk Assessment\|Assesses likelihood and impact of events, and how adversaries might exploit vulnerabilities—helps prioritize risks.]]
+- [[#Risk Assessment|Assesses likelihood and impact of events, and how adversaries might exploit vulnerabilities—helps prioritize risks.]]
     
-- [[cards/red-team/OPSEC#Counter Measures\|Outlines how to prevent, deceive, or deny adversary access to critical information using techniques like alternate IPs.]]
+- [[#Counter Measures|Outlines how to prevent, deceive, or deny adversary access to critical information using techniques like alternate IPs.]]
 
-- [[cards/red-team/OPSEC#Operating Procedures for Red Team OPSEC\|Basic Setup for Red Team operations.]]
+- [[#Operating Procedures for Red Team OPSEC|Basic Setup for Red Team operations.]]
 
 ## Critical Information Identification
 ---
