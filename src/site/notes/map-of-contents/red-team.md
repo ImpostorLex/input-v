@@ -11,7 +11,6 @@
 | ---------------------------------------------------------------------------------------------------------- | ---------- |
 | [[cards/red-team/Abusing Windows Internals\|Abusing Windows Internals]]                                 | true       |
 | [[cards/red-team/Cyber Kill Chain\|Cyber Kill Chain]]                                                   | true       |
-| [[cards/red-team/How Antivirus works and gets bypassed.\|How Antivirus works and gets bypassed.]]       | true       |
 | [[cards/red-team/Lay off the Land\|Lay off the Land]]                                                   | true       |
 | [[cards/red-team/MITRE ATT&CK\|MITRE ATT&CK]]                                                           | true       |
 | [[cards/red-team/OPSEC\|OPSEC]]                                                                         | true       |
@@ -22,6 +21,13 @@
 | [[cards/red-team/Tricking VirusTotal or any Scanning Agent\|Tricking VirusTotal or any Scanning Agent]] | true       |
 | [[cards/red-team/images/Abusing DLLs\|Abusing DLLs]]                                                    | true       |
 | [[cards/red-team/images/Abusing Process Components\|Abusing Process Components]]                        | true       |
+| [[cards/red-team/Binders - malware development\|Binders - malware development]]                         | true       |
+| [[cards/red-team/Evading Antivirus - Shellcode\|Evading Antivirus - Shellcode]]                         | true       |
+| [[cards/red-team/Generating a simple shellcode\|Generating a simple shellcode]]                         | true       |
+| [[cards/red-team/Packers Against Disk-Based AV Detection\|Packers Against Disk-Based AV Detection]]     | true       |
+| [[cards/red-team/Shellcode Encoding and Encrypting\|Shellcode Encoding and Encrypting]]                 | \-         |
+| [[cards/red-team/Staged and Stageless\|Staged and Stageless]]                                           | true       |
+| [[cards/red-team/How Antivirus works and gets bypassed\|How Antivirus works and gets bypassed]]         | true       |
 
 { .block-language-dataview}
 
@@ -33,4 +39,3 @@
 { .block-language-dataview}
 
 See also [[map-of-contents/windows\|windows]] and [[map-of-contents/linux\|linux]]
-

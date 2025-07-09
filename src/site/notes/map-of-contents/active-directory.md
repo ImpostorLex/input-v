@@ -20,11 +20,11 @@
 { .block-language-dataview}
 
 > [!bug]+ Pentest Active Directory or Windows AD only
->  | File                                                                        | dg-publish |
-> | --------------------------------------------------------------------------- | ---------- |
-> | [[cards/windows/Windows Internals\|Windows Internals]]                   | true       |
-> | [[Staged and Stageless\|Staged and Stageless]]                           | true       |
-> | [[Shellcode Encoding and Encrypting\|Shellcode Encoding and Encrypting]] | \-         |
+>  | File                                                                                       | dg-publish |
+> | ------------------------------------------------------------------------------------------ | ---------- |
+> | [[cards/windows/Windows Internals\|Windows Internals]]                                  | true       |
+> | [[cards/red-team/Shellcode Encoding and Encrypting\|Shellcode Encoding and Encrypting]] | \-         |
+> | [[cards/red-team/Staged and Stageless\|Staged and Stageless]]                           | true       |
 > 
 { .block-language-dataview}
 
