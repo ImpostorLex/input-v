@@ -14,8 +14,8 @@
 | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                             | true       |
 | [[cards/active-directory/Active Directory\|Active Directory]]                                                     | true       |
 | [[cards/active-directory/Group Policy Objects\|Group Policy Objects]]                                             | true       |
-| [[cards/active-directory/Kerberos\|Kerberos]]                                                                     | true       |
 | [[cards/active-directory/Lightweight Directory Access Protocol\|Lightweight Directory Access Protocol]]           | true       |
+| [[cards/active-directory/Kerberos\|Kerberos]]                                                                     | true       |
 
 { .block-language-dataview}
 
@@ -23,8 +23,9 @@
 >  | File                                                                                       | dg-publish |
 > | ------------------------------------------------------------------------------------------ | ---------- |
 > | [[cards/windows/Windows Internals\|Windows Internals]]                                  | true       |
-> | [[cards/red-team/Shellcode Encoding and Encrypting\|Shellcode Encoding and Encrypting]] | \-         |
 > | [[cards/red-team/Staged and Stageless\|Staged and Stageless]]                           | true       |
+> | [[cards/red-team/Shellcode Encoding and Encrypting\|Shellcode Encoding and Encrypting]] | \-         |
+> | [[cards/red-team/Obfuscation Principles\|Obfuscation Principles]]                       | true       |
 > 
 { .block-language-dataview}
 
