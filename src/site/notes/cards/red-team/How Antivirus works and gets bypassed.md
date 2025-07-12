@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/how-antivirus-works-and-gets-bypassed/"}
+{"dg-publish":true,"permalink":"/cards/red-team/how-antivirus-works-and-gets-bypassed/","tags":["red-team/host-evasion"]}
 ---
 
 ~ [[map-of-contents/red-team\|red-team]]

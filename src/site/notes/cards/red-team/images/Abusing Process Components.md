@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/images/abusing-process-components/"}
+{"dg-publish":true,"permalink":"/cards/red-team/images/abusing-process-components/","tags":["red-team/host-evasion"]}
 ---
 
 ~ [[cards/red-team/Abusing Windows Internals\|Abusing Windows Internals]]

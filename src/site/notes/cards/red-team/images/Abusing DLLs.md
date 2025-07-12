@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/images/abusing-dl-ls/"}
+{"dg-publish":true,"permalink":"/cards/red-team/images/abusing-dl-ls/","tags":["red-team/host-evasion"]}
 ---
 
 ~ [[cards/red-team/Abusing Windows Internals\|Abusing Windows Internals]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/staged-and-stageless/","tags":["red-team/windows/ad/host-evasion"]}
+{"dg-publish":true,"permalink":"/cards/red-team/staged-and-stageless/","tags":["red-team/host-evasion"]}
 ---
 
 ~ [[cards/red-team/Evading Antivirus - Shellcode\|Evading Antivirus - Shellcode]]

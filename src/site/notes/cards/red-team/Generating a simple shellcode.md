@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/generating-a-simple-shellcode/","tags":["red-team"]}
+{"dg-publish":true,"permalink":"/cards/red-team/generating-a-simple-shellcode/","tags":["red-team/host-evasion"]}
 ---
 
 ~ [[cards/red-team/Evading Antivirus - Shellcode\|Evading Antivirus - Shellcode]]

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/reconnaissance-red-team/","tags":["red-team/ad"]}
+{"dg-publish":true,"permalink":"/cards/red-team/reconnaissance-red-team/","tags":["red-team/ad","red-team/initial-access"]}
 ---
 
 ~ [[map-of-contents/red-team\|red-team]]
 ### Introduction
 ---
-> _"Know your enemy, know his sword" _
+> _"Know your enemy, know his sword"_
 > - Miyamoto Musashi
 
 A proven strategy (not a stategy but a standard really) -- to have a successful penetration testing or red teaming, we must know our target well enough.

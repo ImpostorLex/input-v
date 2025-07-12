@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/obfuscation-principles/","tags":["red-team/windows/ad/host-evasion","sunday","template"]}
+{"dg-publish":true,"permalink":"/cards/red-team/obfuscation-principles/","tags":["red-team/host-evasion"]}
 ---
 
 ~ [[map-of-contents/red-team\|red-team]]

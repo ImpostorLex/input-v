@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/windows/windows-internals/","tags":["windows","red-team/windows/ad/host-evasion"]}
+{"dg-publish":true,"permalink":"/cards/windows/windows-internals/","tags":["windows","red-team/host-evasion"]}
 ---
 
 ~ [[map-of-contents/windows\|windows]]

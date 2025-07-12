@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/lay-off-the-land/","tags":["red-team/windows"]}
+{"dg-publish":true,"permalink":"/cards/red-team/lay-off-the-land/","tags":["red-team/post-c"]}
 ---
 
 ~ [[map-of-contents/post-compromise\|post-compromise]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/process-hollowing/"}
+{"dg-publish":true,"permalink":"/cards/red-team/process-hollowing/","tags":["red-team/host-evasion"]}
 ---
 
 ~ [[cards/red-team/Abusing Windows Internals\|Abusing Windows Internals]]

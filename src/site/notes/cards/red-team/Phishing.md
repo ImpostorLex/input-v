@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/phishing/","tags":["sunday","template"]}
+{"dg-publish":true,"permalink":"/cards/red-team/phishing/","tags":["red-team/initial-access"]}
 ---
 
 [[map-of-contents/blue-team\|blue-team]]

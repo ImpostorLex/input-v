@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/opsec/"}
+{"dg-publish":true,"permalink":"/cards/red-team/opsec/","tags":["red-team"]}
 ---
 
 ~ [[map-of-contents/red-team\|red-team]]

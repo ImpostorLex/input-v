@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-team/abusing-windows-internals/","tags":["red-team/windows"]}
+{"dg-publish":true,"permalink":"/cards/red-team/abusing-windows-internals/","tags":["red-team/host-evasion"]}
 ---
 
 ~ [[map-of-contents/red-team\|red-team]]
