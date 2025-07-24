@@ -14,6 +14,8 @@ Think of a process as a coconut - we scoop out the insides of the coconut and re
 
 ![Abusing Windows Internals2.png](/img/user/cards/red-team/images/Abusing%20Windows%20Internals2.png)
 
+Click this note and then put it side by side code is discussed here in the step by step [[cards/red-team/Process Hollowing - Basic Example\|Process Hollowing - Basic Example]]
+
 1. **Creating the Target Process (Suspended State)**
 
 	- A **legitimate process (Suspended)** is created using the `CreateProcess` API with the `CREATE_SUSPENDED` flag. (Yellow Circle)

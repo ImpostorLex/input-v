@@ -37,7 +37,6 @@ It represents an execution of a program, an application or program can contain o
 **Instruction Execution** (How threads control the execution of a process)
 
 - Threads hold the **CPU context**, including:
-
     - Instruction Pointer (what to execute next)
     - Registers (temporary data)
     - Stack (function calls, local variables)
@@ -112,6 +111,8 @@ They are loaded into a program:
 
 **Load-Time Dynamic Linking**
 
+Happens during program **startup**, the OS load the required DLLs/shared lib before the `main()` function runs.
+
 ```cpp
 
 #include "sampleDLL.h"
@@ -124,6 +125,8 @@ int main() {
 
 
 **Run-Time Dynamic Linking**
+
+Opposite, after the `main()` starts.
 
 ```cpp
 #include <windows.h>

@@ -25,7 +25,7 @@ sudo ps -AFH | less
 - `-F` full format response
 - `-H` forest output parent-child
 
-![Linux Process Analysis.png](/img/user/cards/blue-team/endpoint-security/images/Linux%20Process%20Analysis.png)
+![cards/blue-team/endpoint-security/images/Linux Process Analysis.png](/img/user/cards/blue-team/endpoint-security/images/Linux%20Process%20Analysis.png)
 **List out all child of parent by providing PID of parent**
 
 ```bash
@@ -57,3 +57,13 @@ lsof +L1
 
 - Why it remains? because it is still in our memory and in used by other processes
 - You can still extract the hash by `sha256sum exe`
+
+**Great if you suspect a user has only access to his/her home directory** or for specific processes running in a specific directory:
+
+```C
+lsof +D /home/mircoservice
+```
+
+Also used to check for hidden process.
+
+![cards/blue-team/soc/images/Linux Process Analysis.png](/img/user/cards/blue-team/soc/images/Linux%20Process%20Analysis.png)

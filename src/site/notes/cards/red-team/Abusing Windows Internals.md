@@ -15,9 +15,9 @@ Windows internals plays an important role on the Windows operating system includ
 
 - [[cards/red-team/Process Hollowing\|Injects a malicious executable into a suspended legitimate process by unmapping its original memory and replacing it with custom PE code, allowing stealthy code execution under a trusted process name.]]
 
-- [[cards/red-team/images/Abusing Process Components\|Injects shellcode into a remote process by hijacking one of its existing threads, redirecting its execution flow to malicious code without creating a new thread, improving stealth.]]
+- [[cards/red-team/Abusing Process Components\|Injects shellcode into a remote process by hijacking one of its existing threads, redirecting its execution flow to malicious code without creating a new thread, improving stealth.]]
 
-- [[cards/red-team/images/Abusing DLLs\|Injects a malicious DLL into a target process by allocating memory for its path and using CreateRemoteThread to call LoadLibrary, enabling execution of attacker-controlled code inside another process.]]
+- [[cards/red-team/Abusing DLLs\|Injects a malicious DLL into a target process by allocating memory for its path and using CreateRemoteThread to call LoadLibrary, enabling execution of attacker-controlled code inside another process.]]
 
 ### Prerequisites
 ---
@@ -33,8 +33,8 @@ _Process_ represent a program that's being executed, a program can contain one o
 | Injection Type                                             | Description                                                                                                                                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[cards/red-team/Process Hollowing\|Process Hollowing]]                                      | Replaces the memory of a legitimate process with malicious code, often after creating it in a _suspended state_, a process is created but not yet running, function such as `Create Process` with the `CREATE_SUSPENDED` flag, it's paused right after creation, before it begins executing any code. **It does not make sense to execute a legitimate process when we want to 'hack' it**. |
-| [[cards/red-team/images/Abusing Process Components\|Thread Execution Hijacking]] | Redirects an existing [[cards/windows/Windows Internals#Threads\|threads]] in a process to execute malicious code by modifying its execution context. Modifying the _Instruction Pointer_ (EIP/RIP) to jump into your malicious code instead of the benign instructions.                                                                                                                                  |
-| [[cards/red-team/images/Abusing DLLs\|DLL Injection]]                            | Loads a malicious Dynamic-Link Library into the memory space of a target process to run custom code.                                                                                                                                                                                                                                                                                        |
+| [[cards/red-team/Abusing Process Components\|Thread Execution Hijacking]] | Redirects an existing [[cards/windows/Windows Internals#Threads\|threads]] in a process to execute malicious code by modifying its execution context. Modifying the _Instruction Pointer_ (EIP/RIP) to jump into your malicious code instead of the benign instructions.                                                                                                                                  |
+| [[cards/red-team/Abusing DLLs\|DLL Injection]]                            | Loads a malicious Dynamic-Link Library into the memory space of a target process to run custom code.                                                                                                                                                                                                                                                                                        |
 | **PE Injection**                                           | Manually maps a Portable Executable (like a .exe or .dll) into a process without using normal loading mechanisms, allowing covert execution.                                                                                                                                                                                                                                                |
 A _handle_ is basically an interface that allows a program to interact with a system object (A process, file, thread, window, or even a memory section).
 
@@ -142,9 +142,9 @@ Then once the binary or program is compiled and we have a list of process ID tha
 
 - [[cards/red-team/Process Hollowing\|Injects a malicious executable into a suspended legitimate process by unmapping its original memory and replacing it with custom PE code, allowing stealthy code execution under a trusted process name.]]
 
-- [[cards/red-team/images/Abusing Process Components\|Injects shellcode into a remote process by hijacking one of its existing threads, redirecting its execution flow to malicious code without creating a new thread, improving stealth.]]
+- [[cards/red-team/Abusing Process Components\|Injects shellcode into a remote process by hijacking one of its existing threads, redirecting its execution flow to malicious code without creating a new thread, improving stealth.]]
 
-- [[cards/red-team/images/Abusing DLLs\|Injects a malicious DLL into a target process by allocating memory for its path and using CreateRemoteThread to call LoadLibrary, enabling execution of attacker-controlled code inside another process.]]
+- [[cards/red-team/Abusing DLLs\|Injects a malicious DLL into a target process by allocating memory for its path and using CreateRemoteThread to call LoadLibrary, enabling execution of attacker-controlled code inside another process.]]
 
 #### Why process injection does not work?
 ---

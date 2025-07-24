@@ -80,7 +80,7 @@ char part2[] = "ret";
 char* key = strcat(part1, part2); // → "Secret"
 ```
 
-See [[Signature Evasion\|signature evasion]] and [[cards/red-team/Evading Antivirus - Shellcode#Encoding and Encryption\|evading antivirus]] start from encoding and encryption there.
+See [[cards/red-team/Signature Evasion\|signature evasion]] and [[cards/red-team/Evading Antivirus - Shellcode#Encoding and Encryption\|evading antivirus]] start from encoding and encryption there.
 
 ### Object Concatenation
 ---
