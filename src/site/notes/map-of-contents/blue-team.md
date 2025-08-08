@@ -40,7 +40,7 @@
 > | [[cards/blue-team/endpoint-security/Windows Process Analysis\|Windows Process Analysis]]   | 6:38 PM - April 21, 2025    |
 > | [[cards/blue-team/endpoint-security/Windows Registry\|Windows Registry]]                   | 5:57 PM - February 21, 2025 |
 > | [[cards/blue-team/endpoint-security/Sysmon\|Sysmon]]                                       | 6:41 PM - April 21, 2025    |
-> | [[cards/blue-team/endpoint-security/Linux Process Analysis\|Linux Process Analysis]]       | 6:01 PM - July 14, 2025     |
+> | [[cards/blue-team/endpoint-security/Linux Process Analysis\|Linux Process Analysis]]       | 9:08 PM - August 02, 2025   |
 > | [[cards/blue-team/endpoint-security/Windows Services Analysis\|Windows Services Analysis]] | 7:49 PM - January 23, 2025  |
 > | [[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]                 | 5:44 PM - April 10, 2025    |
 > | [[cards/blue-team/endpoint-security/Windows Event Logs\|Windows Event Logs]]               | 5:55 PM - January 27, 2025  |

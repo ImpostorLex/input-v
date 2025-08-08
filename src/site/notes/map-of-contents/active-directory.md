@@ -10,12 +10,12 @@
 
 | File                                                                                                                 | dg-publish |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]] | true       |
 | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                             | true       |
 | [[cards/active-directory/Active Directory\|Active Directory]]                                                     | true       |
+| [[cards/active-directory/Group Policy Objects\|Group Policy Objects]]                                             | true       |
 | [[cards/active-directory/Kerberos\|Kerberos]]                                                                     | true       |
 | [[cards/active-directory/Lightweight Directory Access Protocol\|Lightweight Directory Access Protocol]]           | true       |
-| [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]] | true       |
-| [[cards/active-directory/Group Policy Objects\|Group Policy Objects]]                                             | true       |
 
 { .block-language-dataview}
 

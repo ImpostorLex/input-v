@@ -67,3 +67,39 @@ lsof +D /home/mircoservice
 Also used to check for hidden process.
 
 ![cards/blue-team/soc/images/Linux Process Analysis.png](/img/user/cards/blue-team/soc/images/Linux%20Process%20Analysis.png)
+
+**Viewing malware under services**
+
+```C
+systemctl list-timers --all
+```
+
+Or
+
+```C
+systemctl list-unit-files --type=service --all  
+```
+
+Output:
+
+![cards/blue-team/siem/images/Linux Process Analysis.png](/img/user/cards/blue-team/siem/images/Linux%20Process%20Analysis.png)
+
+Note Enabled - Enabled | STATE and PRESET look for services that both columns enabled.
+
+Since we are looking for persistence mechanism at least the `STATE` must be enabled.
+
+- `STATE` - This is the **actual current state** of the service unit file in the file system.
+- `PRESET` - This shows what the **preset policy** suggests should be done with this service — based on the system-wide or vendor-supplied policy
+
+Look into here as well: 
+
+```C
+/etc/systemd/system/
+```
+
+**Show all recently modified or added services:** 
+
+```C
+find /etc/systemd/system /lib/systemd/system -type f -name "*.service" -exec stat --format '%y %n' {} \; | sort
+```
+

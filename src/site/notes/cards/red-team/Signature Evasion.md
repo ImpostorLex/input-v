@@ -124,7 +124,7 @@ Then it will reveal the bad bytes in your code:
 
 ![Signature Evasion-5.png](/img/user/cards/red-team/images/Signature%20Evasion-5.png)
 
-The bad bytes is 50461 + (the block of bytes) it's 
+The bad bytes is 50461.
 
 Just keep breaking and breaking until no signatures are identified, do note there may be instances of false positives, in which the tool will report no bad bytes, this will require analyst to observe and solve; more [here].
 ### AMSITrigger
@@ -483,17 +483,17 @@ Why this instead of using automatic obfuscator first, it may:
 
 **Step 2. Run general/automated obfuscation**
 
-- **Control flow flattening**
+- Control flow flattening
     
-- **Class hierarchy flattening**
+- Class hierarchy flattening
     
-- **String splitting/aggregation**
+- String splitting/aggregation
     
-- **Modifier dropping**
+- Modifier dropping
     
-- **Instruction reordering**
+- Instruction reordering
 
-These help:
+**These help us red teamers:**
 
 - Confuse reverse engineers
 - Throw off heuristic AV engines
@@ -507,7 +507,9 @@ These help:
     
 - What tools will I use for automation, and what parts will they touch?
 
-Challenge [[cards/red-team/Signature Evasion Code Blocks#All of them at once\|Signature Evasion Code Blocks#All of them at once]]
+The ideal step is have it go with: ThreatCheck.exe then check Import Address Table, then finally obfuscate class names and such.
+
+Challenge [[cards/red-team/Signature Evasion Code Blocks#All of them at once\|lets go]]
 ### Questions and Problems
 ---
 ## Conclusion
