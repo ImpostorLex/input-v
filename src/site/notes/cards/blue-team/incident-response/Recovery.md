@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/incident-response/recovery/"}
 ---
 
-[[Incident Response\|Incident Response]]
+~ [[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 After succesfully [[cards/blue-team/incident-response/Eradication\|eradicating]] the root problem, this the phase where we safely put back our system into production.

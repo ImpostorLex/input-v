@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/ftk-imager/"}
 ---
 
-[[Digital Forensics MOC\|Digital Forensics MOC]]
+[[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 A forensic image that can copy bit by bit of a storage device as well as producing a hash for integrity.

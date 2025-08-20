@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/order-of-volatility/"}
 ---
 
-[[Digital Forensics MOC\|Digital Forensics MOC]]
+[[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 The importance of maintaining data integrity and acquisation of _volatile_ data, are data that can be easily be lost, or altered, or overwritten during investigation.

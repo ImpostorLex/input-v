@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/chain-of-custody/"}
 ---
 
-[[Digital Forensics MOC\|Digital Forensics MOC]]
+[[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 Tracking the evidence throughout the entire investigation, ensuring accountability, it includes the following:

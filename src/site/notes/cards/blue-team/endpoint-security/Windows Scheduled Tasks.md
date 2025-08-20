@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/windows-scheduled-tasks/"}
 ---
 
-[[Endpoint Security MOC\|Endpoint Security MOC]]
+[[map-of-contents/blue-team\|blue-team]]
 
 - Managed by Task Scheduler Utility.
 

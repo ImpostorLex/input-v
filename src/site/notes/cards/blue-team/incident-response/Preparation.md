@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/incident-response/preparation/"}
 ---
 
-[[Incident Response\|Incident Response]]
+~ [[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 The goal is to have our systems and people ready to respond to incident or at best prevent them.

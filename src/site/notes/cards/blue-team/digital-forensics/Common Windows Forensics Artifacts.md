@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/common-windows-forensics-artifacts/"}
 ---
 
-[[Digital Forensics MOC\|Digital Forensics MOC]]
+[[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 These are common sources of evidence that can be found on a Windows system.

@@ -36,7 +36,7 @@
 > | [[cards/red-team/Bypassing UAC\|Bypassing UAC]]                                                                         | 9:06 PM - August 02, 2025  |
 > | [[cards/red-team/Runtime Detection Evasion\|Runtime Detection Evasion]]                                                 | 10:34 AM - August 08, 2025 |
 > | [[cards/red-team/Evading Logging and Monitoring\|Evading Logging and Monitoring]]                                       | 7:12 PM - August 14, 2025  |
-> | [[Living off the Land\|Living off the Land]]                                                                            | 2:01 PM - August 17, 2025  |
+> | [[cards/red-team/Living off the Land\|Living off the Land]]                                                             | 4:12 PM - August 20, 2025  |
 > 
 { .block-language-dataview}
 

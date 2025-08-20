@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/linux-network-analysis/"}
 ---
 
-[[Endpoint Security MOC\|Endpoint Security MOC]]
+[[map-of-contents/blue-team\|blue-team]]
 
 - Common choice for servers.
 

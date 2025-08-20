@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/windows-forensics-artifact-triage/"}
 ---
 
-[[Digital Forensics MOC\|Digital Forensics MOC]]
+[[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 Artifacts to prioritize getting when performing the initial triage of a Windows system to quickly perform forensics aside from memory or volatile data.

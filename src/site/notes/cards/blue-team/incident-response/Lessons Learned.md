@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/incident-response/lessons-learned/"}
 ---
 
-[[Incident Response\|Incident Response]]
+~ [[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 What went well and what did not?

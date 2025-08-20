@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/siem/command-line-log-analysis/"}
 ---
 
-[[SIEM MOC\|SIEM MOC]]
+~ [[map-of-contents/blue-team\|blue-team]]
 
 - No agent installed on the endpoint or handed a log file scenario.
 - `less` is good.

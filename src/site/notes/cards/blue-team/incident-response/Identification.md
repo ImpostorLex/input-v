@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/incident-response/identification/"}
 ---
 
-[[Incident Response#The Foundation\|Incident Response]]
+~ [[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 How to identify an incident and how do we determine if it's a incident? what incident should we prioritize?

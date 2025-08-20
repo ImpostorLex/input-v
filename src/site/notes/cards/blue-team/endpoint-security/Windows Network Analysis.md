@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/windows-network-analysis/"}
 ---
 
-[[Network Security MOC\|Network Security MOC]]
+[[map-of-contents/blue-team\|blue-team]]
 ### Introduction
 ---
 A great way to start an investigation, as everything starts with a network connection.
