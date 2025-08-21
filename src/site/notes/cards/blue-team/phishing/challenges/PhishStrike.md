@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/challenges/phish-strike/"}
 ---
 
-[[Challenges TimeKeeping\|Challenges TimeKeeping]]
+~ [[map-of-contents/blue-team\|blue-team]]
 ### Initial Triage
 ---
 At first glance, it looks legitimate however hovering the links shows an IP address:

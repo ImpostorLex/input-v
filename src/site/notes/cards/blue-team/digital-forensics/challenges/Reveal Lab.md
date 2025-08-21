@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/challenges/reveal-lab/"}
 ---
 
-[[Challenges TimeKeeping\|Challenges TimeKeeping]]
+~ [[map-of-contents/blue-team\|blue-team]] 
 
 **Determing OS information**
 ```C

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/challenges/soc-101-phishing-challenge-report-2/"}
 ---
 
+~ [[map-of-contents/blue-team\|blue-team]]
 Headers
 ======================================
 Date: Sun, 12 May 2024 04:10:52 +0000

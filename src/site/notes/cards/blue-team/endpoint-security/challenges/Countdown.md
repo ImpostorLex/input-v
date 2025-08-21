@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/challenges/countdown/"}
 ---
 
-[[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]
+[[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]] | ~ [[map-of-contents/blue-team\|blue-team]]
 
 > Verify the Disk Image. Submit SectorCount and MD5
 

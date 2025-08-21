@@ -6,6 +6,8 @@
 
 **A map can exist inside a map.**
 
+See challenges [[#chall|here]].
+
 > [!danger]+ quick start
 > - [[cards/blue-team/phishing/Email Analysis\|Email Analysis]]
 > - [[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]
@@ -135,4 +137,34 @@
 > 
 { .block-language-dataview}
 
+### Challenges
+---
+
+> [!danger]- Challenges I did for exam
+>  | Challenge                                                                                                                            | Last Modified               |
+> | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+> | [[cards/blue-team/threat-intelligence/challenges/3CX Supply Chain Lab\|3CX Supply Chain Lab]]                                     | 5:11 PM - February 24, 2025 |
+> | [[cards/blue-team/phishing/challenges/PhishStrike\|PhishStrike]]                                                                  | 9:00 AM - August 21, 2025   |
+> | [[cards/blue-team/network-security/challenges/SOC 101 - TCPdump Challenge 1\|SOC 101 - TCPdump Challenge 1]]                      | 9:00 AM - August 21, 2025   |
+> | [[cards/blue-team/phishing/challenges/SOC 101 - Phishing Challenge Report 2\|SOC 101 - Phishing Challenge Report 2]]              | 9:00 AM - August 21, 2025   |
+> | [[cards/blue-team/network-security/challenges/SOC 101 - Snort Challenge 1\|SOC 101 - Snort Challenge 1]]                          | 9:00 AM - August 21, 2025   |
+> | [[cards/blue-team/endpoint-security/challenges/Countdown\|Countdown]]                                                             | 9:00 AM - August 21, 2025   |
+> | [[cards/blue-team/digital-forensics/challenges/SOC 101 - Volatility Challenge 1\|SOC 101 - Volatility Challenge 1]]               | 9:01 AM - August 21, 2025   |
+> | [[cards/blue-team/phishing/challenges/SOC 101 Phishing - Challenge 1\|SOC 101 Phishing - Challenge 1]]                            | 9:01 AM - August 21, 2025   |
+> | [[cards/blue-team/siem/challenges/SOC 101 - SIEM Challenge 1\|SOC 101 - SIEM Challenge 1]]                                        | 9:01 AM - August 21, 2025   |
+> | [[cards/blue-team/endpoint-security/challenges/SOC 101 - Windows Event Logs Challenge\|SOC 101 - Windows Event Logs Challenge]]   | 9:01 AM - August 21, 2025   |
+> | [[cards/blue-team/endpoint-security/challenges/SOC 101 - Endpoint Security Challenge 1\|SOC 101 - Endpoint Security Challenge 1]] | 9:01 AM - August 21, 2025   |
+> | [[cards/blue-team/phishing/challenges/Phishing - Rerun C3\|Phishing - Rerun C3]]                                                  | 9:01 AM - August 21, 2025   |
+> | [[cards/blue-team/digital-forensics/challenges/Reveal Lab\|Reveal Lab]]                                                           | 9:02 AM - August 21, 2025   |
+> | [[cards/blue-team/network-security/challenges/BlueSky Ransomware Lab\|BlueSky Ransomware Lab]]                                    | 9:02 AM - August 21, 2025   |
+> | [[cards/blue-team/endpoint-security/challenges/Linux Endpoint Challenge 1\|Linux Endpoint Challenge 1]]                           | 9:02 AM - August 21, 2025   |
+> | [[cards/blue-team/phishing/challenges/Chase Bank Account Unusual Activities\|Chase Bank Account Unusual Activities]]              | 9:02 AM - August 21, 2025   |
+> | [[cards/blue-team/threat-intelligence/challenges/SOC 101 - Threat Intel Challenge 1\|SOC 101 - Threat Intel Challenge 1]]         | 9:03 AM - August 21, 2025   |
+> | [[cards/blue-team/siem/challenges/Splunk Bots v1\|Splunk Bots v1]]                                                                | 6:43 PM - April 21, 2025    |
+> | [[cards/blue-team/phishing/challenges/SOC 101 - Phishing Challenge 2\|SOC 101 - Phishing Challenge 2]]                            | 9:03 AM - August 21, 2025   |
+> | [[cards/blue-team/siem/challenges/Splunk Bots v2\|Splunk Bots v2]]                                                                | 9:03 AM - August 21, 2025   |
+> | [[cards/blue-team/network-security/challenges/SOC 101 - Wireshark Challenge 1\|SOC 101 - Wireshark Challenge 1]]                  | 9:03 AM - August 21, 2025   |
+> | [[cards/blue-team/phishing/challenges/SOC 101 - Phishing Challenge 3\|SOC 101 - Phishing Challenge 3]]                            | 9:03 AM - August 21, 2025   |
+> 
+{ .block-language-dataview}
 

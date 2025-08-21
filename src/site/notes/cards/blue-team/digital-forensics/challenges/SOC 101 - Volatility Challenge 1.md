@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/challenges/soc-101-volatility-challenge-1/"}
 ---
 
-[[Challenges TimeKeeping\|Challenges TimeKeeping]]
+~ [[map-of-contents/blue-team\|blue-team]]
 
 - Source file [here](https://drive.google.com/file/d/1Vl2mT0ZDb6HrKZqSZKCJjRUjdknWUUL_/view)
 - password: infected
