@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/challenges/soc-101-phishing-challenge-1/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] | [[cards/blue-team/phishing/challenges/SOC 101 Phishing - Challenge 1#Unformatted Report (Initial Investigation)\|Jump to unformatted investigation]]
+~ [[atlas/blue-team\|blue-team]] | [[cards/blue-team/phishing/challenges/SOC 101 Phishing - Challenge 1#Unformatted Report (Initial Investigation)\|Jump to unformatted investigation]]
 Headers
 ======================================
 Date: Tue, 31 Oct 2023 10:10:04 -0900

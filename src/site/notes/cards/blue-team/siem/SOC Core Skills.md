@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/siem/soc-core-skills/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 - Don't wait for an incident to try tools you have read about.
 - How we are going to tell apart the True Positive from the False Positive?
 	- Simple: Ask the user but in most mature organization, a change that can trigger alert has to go **Change Request** process first.

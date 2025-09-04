@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/challenges/soc-101-windows-event-logs-challenge/"}
 ---
 
-[[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]] | ~ [[map-of-contents/blue-team\|blue-team]]
+[[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]] | ~ [[atlas/blue-team\|blue-team]]
 
 > What is the **hostname** of the computer that generated the logs in the `challenge.evtx` file?
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/windows/syscall/","tags":["windows"]}
 ---
 
-~ [[map-of-contents/windows\|windows]]
+~ [[atlas/windows\|windows]]
 
 - A "syscall" (System Call) is a programmatic way for a user-space application to request a service from the operating system kernel.
 

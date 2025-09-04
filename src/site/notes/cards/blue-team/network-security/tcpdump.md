@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/network-security/tcpdump/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 - Great for remote network capturing.
 - `-i` to specify interface. (index number or interface name as value).

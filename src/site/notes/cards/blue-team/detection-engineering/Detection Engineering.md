@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/detection-engineering/detection-engineering/","tags":["sunday","template"]}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction 
 ---
 It's a **continuous process** of identifying threats, detecting them through rules, and processes, and fine-tune the rules and processes as the cybersecurity landscape changes.

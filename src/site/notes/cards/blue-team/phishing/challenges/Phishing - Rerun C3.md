@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/challenges/phishing-rerun-c3/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] 
+~ [[atlas/blue-team\|blue-team]] 
 ### Initial Triage
 ---
 The **from** says 'Adam' but the email content says 'Alexia' and lastly there is attached word document with a `.docm` extension, macro enabled.

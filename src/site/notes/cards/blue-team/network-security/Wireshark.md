@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/network-security/wireshark/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 - `http` 
 	- `http.request.uri contains mal.exe`.

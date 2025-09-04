@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/network-security/intrusion-detection-and-prevention-system/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 - **Intrusion Detection System** are software or programs meant to alert based on signature, policy violation, rules, or behavioral monitoring and analysis (**REACTIVE**).
 	- Out-of-band traffic does not need to sit directly in traffic flow, it only requires a copy.

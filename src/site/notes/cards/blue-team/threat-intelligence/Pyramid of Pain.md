@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/threat-intelligence/pyramid-of-pain/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 It is a framework for observing measurable and observable pieces of information that is organized based on the difficulty of how the attacker can manipulate it.
 

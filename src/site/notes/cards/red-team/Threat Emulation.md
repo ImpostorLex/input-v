@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/threat-emulation/","tags":["red-team/threat-emulation"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 It is a act of intentionally performing real world attacks to better improve the organization security posture and response capabilities.

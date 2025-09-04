@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/siem/challenges/splunk-bots-v2/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] 
+~ [[atlas/blue-team\|blue-team]] 
 
 - August 24th - ransomware incident through USB drive. (Year 2016 per question)
 - Victim: Bob Smith

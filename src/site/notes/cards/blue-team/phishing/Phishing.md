@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/phishing/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction
 ---
 An attempt of stealing sensitive information by using social engineering tactic via communication mediums such as email, SMS, phone calls, and the Internet, usually posing as a **known entity** and instilling **fear**.

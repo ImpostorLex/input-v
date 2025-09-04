@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/reactive-phishing-defense/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ## Reactive Phishing Defense
 ---
 Again, to make an effective SOC is how we respond to incident

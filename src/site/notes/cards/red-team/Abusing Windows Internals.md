@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/abusing-windows-internals/","tags":["red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 Windows internals plays an important role on the Windows operating system including important components found on the backend such as processes, file formats, [[Component Object Model (COM)\|Component Object Model (COM)]], task scheduling, I/O System, and more.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/web/bug-bounty/revealing-secrets-with-information-disclosure-bugs/"}
 ---
 
-[[+ simmering/Bug Bounty\|Bug Bounty]]
+[[+/Bug Bounty\|Bug Bounty]]
 
 - Personal Identifiable Information
 - Access Control issues

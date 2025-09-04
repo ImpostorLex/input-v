@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/siem/challenges/soc-101-siem-challenge-1/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]]
+~ [[atlas/blue-team\|blue-team]]
 
 - File reference: `04_SIEM/01_Log_Analysis/Challenges/challenge.log`
 - The log file is semi structured.

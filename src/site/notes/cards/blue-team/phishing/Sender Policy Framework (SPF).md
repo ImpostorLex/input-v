@@ -32,7 +32,7 @@ filename: `sample3.eml`
 Third received header:
 
 ![Pasted image 20250105141341.png](/img/user/cards/blue-team/phishing/images/Pasted%20image%2020250105141341.png)
-Per the image, the connection is encrypted using a protocol called [[Transport Layer Security\|Transport Layer Security]] and this cannot happen without (most likely since it is email) a TCP connection, so therefore the IP address shown **149.72.142.11** is trustworthy and cannot be spoofed.
+Per the image, the connection is encrypted using a protocol called [[cards/networking/Transport Layer Security\|Transport Layer Security]] and this cannot happen without (most likely since it is email) a TCP connection, so therefore the IP address shown **149.72.142.11** is trustworthy and cannot be spoofed.
 
 **Tools:** [whois](https://whois.domaintools.com/149.72.142.11)
 

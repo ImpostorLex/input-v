@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/challenges/linux-endpoint-challenge-1/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] 
+~ [[atlas/blue-team\|blue-team]] 
 
 ```bash
 sudo lsof -i -P -n

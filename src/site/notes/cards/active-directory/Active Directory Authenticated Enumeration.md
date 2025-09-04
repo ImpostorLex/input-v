@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/active-directory/active-directory-authenticated-enumeration/","tags":["red-team/ad"]}
 ---
 
-[[map-of-contents/active-directory\|active-directory]]
+[[atlas/active-directory\|active-directory]]
 ### Introduction
 ---
 Demonstrate the techniques used once we have access to an authenticated account, the learning objectives are:

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/challenges/chase-bank-account-unusual-activities/"}
 ---
 
-[[cards/blue-team/phishing/Email Analysis\|Email Analysis]] | ~ [[map-of-contents/blue-team\|blue-team]] 
+[[cards/blue-team/phishing/Email Analysis\|Email Analysis]] | ~ [[atlas/blue-team\|blue-team]] 
 
 ![Pasted image 20250104131641.png](/img/user/cards/blue-team/phishing/images/Pasted%20image%2020250104131641.png)
 

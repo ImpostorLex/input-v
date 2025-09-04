@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/siem/challenges/splunk-bots-v1/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 **Indexes:**
 ```C

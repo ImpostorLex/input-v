@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/cyber-kill-chain/","tags":["sunday","template"]}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction 
 ---
 A model that shows the whole cyber attack process opposed to [[cards/red-team/MITRE ATT&CK\|MITRE ATT&CK]] where it models specific behaviors of certain threat groups.

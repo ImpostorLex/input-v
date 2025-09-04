@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/evading-logging-and-monitoring/","tags":["red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]] 
+~ [[atlas/red-team\|red-team]] 
 ### Introduction 
 ---
 One of the biggest obstacles, if not the biggest obstacles in attacker's path is logging and monitoring as logging creates a physical record of an activity that can be analyzed for malicious activity.
@@ -164,7 +164,7 @@ In memory, every function has machine instructions (opcodes), if you can overwri
 
 ![Evading Logging and Monitoring-7.png](/img/user/cards/red-team/images/Evading%20Logging%20and%20Monitoring-7.png)
 
-(This section needs more work #todo find the notes about LIFO) lmao.
+todo:: find more notes about lifo 
 
 Think of the **stack** like a pile of dinner plates where each _plate_ is a **return address** — a location in the program’s code to go back to after a function finishes.
 

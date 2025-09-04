@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/incident-response/eradication/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction
 ---
 Once the threat is [[cards/blue-team/incident-response/Containment\|contained]], we then now move on to fixing the root cause, such as determining it's behavior, analyzing IOCs, and more.

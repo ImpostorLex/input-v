@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/web/bug-bounty/access-control-and-ido-rs/"}
 ---
 
-[[+ simmering/Bug Bounty\|Bug Bounty]]
+[[+/Bug Bounty\|Bug Bounty]]
 
 Restricting access to specific resources and referencing sensitive objects using user controlled inputs such as IDs or username such as:
 

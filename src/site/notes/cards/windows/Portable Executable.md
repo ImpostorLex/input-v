@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/windows/portable-executable/","tags":["windows"]}
 ---
 
-~ [[map-of-contents/windows\|windows]]
+~ [[atlas/windows\|windows]]
 ### Introduction
 ---
 It is the standard file format for Windows executables such as `.exe`, `.dll`, `.sys`, and many more. It defines how binary code, libraries, and resources are organized on disk and loaded into memory by the Windows loader.

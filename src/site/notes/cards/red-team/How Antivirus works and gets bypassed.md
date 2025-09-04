@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/how-antivirus-works-and-gets-bypassed/","tags":["red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 It's a host-based security solution designed to detect and prevent the execution of malicious files on the targeted operating system. It is running in the background by default.

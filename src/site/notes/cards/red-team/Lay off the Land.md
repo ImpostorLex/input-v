@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/lay-off-the-land/","tags":["red-team/post-c"]}
 ---
 
-~ [[map-of-contents/post-compromise\|post-compromise]]
+~ [[atlas/post-compromise\|post-compromise]]
 ### Introduction
 ---
 After successfully establishing _initial access_, it's time to learn more about the 'land' -- it's important to familiarize ourselves with the commonly used technologies, and security products.

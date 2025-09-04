@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/web/images/ui-designing/"}
 ---
 
-[[map-of-contents/web\|map-of-contents/web]]
+[[atlas/web\|web]]
 
 _Although UI designing is not only applicable to Web but to other as well._
 

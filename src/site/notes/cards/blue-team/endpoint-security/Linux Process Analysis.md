@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/linux-process-analysis/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 - A program, command, a script is a process
 - [[cards/linux/Linux -  proc file system\|/proc file directory]] proc = processes

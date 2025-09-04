@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/volatility/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction
 ---
 A tool used to analyze snapshot of the systems memory, it supports the three commonly used operating system, these are: Windows, MacOS, and Linux.

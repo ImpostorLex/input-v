@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/threat-intelligence/threat-intelligence/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 It is the process of analyzing and applying information about potential threats to an organization.
 

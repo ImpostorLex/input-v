@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/challenges/reveal-lab/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] 
+~ [[atlas/blue-team\|blue-team]] 
 
 **Determing OS information**
 ```C

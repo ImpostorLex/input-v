@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/challenges/phish-strike/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]]
+~ [[atlas/blue-team\|blue-team]]
 ### Initial Triage
 ---
 At first glance, it looks legitimate however hovering the links shows an IP address:

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/challenges/soc-101-endpoint-security-challenge-1/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]]
+~ [[atlas/blue-team\|blue-team]]
 
 Determining if there is a file share mounted:
 

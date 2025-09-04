@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/windows/windows-hardening/"}
 ---
 
-[[map-of-contents/windows\|windows]]
+[[atlas/windows\|windows]]
 ### Introduction 
 ---
 Hardening endpoints is as important as establishing security policies and implementing security controls in one organization. Although hardening one endpoint is okay but a thousand is not thankfully we can manage this by using software like Active Directory.

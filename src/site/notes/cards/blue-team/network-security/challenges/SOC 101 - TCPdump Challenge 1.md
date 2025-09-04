@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/network-security/challenges/soc-101-tc-pdump-challenge-1/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]]
+~ [[atlas/blue-team\|blue-team]]
 
 Displaying the packet without filters shows interesting packets, these are accessing a file share using ftp and the use of ping:
 

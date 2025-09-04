@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/network-security/challenges/blue-sky-ransomware-lab/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] 
+~ [[atlas/blue-team\|blue-team]] 
 
 Dealing with a total of 4797 packet capture:
 ![BlueSky Ransomware Lab.png](/img/user/cards/blue-team/network-security/images/BlueSky%20Ransomware%20Lab.png)

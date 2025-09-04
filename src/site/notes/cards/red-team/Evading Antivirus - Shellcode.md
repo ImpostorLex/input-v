@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/evading-antivirus-shellcode/","tags":["red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 This focuses on evading [[cards/red-team/How Antivirus works and gets bypassed#Features\|common Antivirus Engines]] found on most Windows system but some of the topics here can also be applied to Unix systems.

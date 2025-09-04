@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/windows/windows-registry/","tags":["sunday","template"]}
 ---
 
-[[map-of-contents/windows\|windows]]
+[[atlas/windows\|windows]]
 ### Introduction 
 ---
 The windows registry is a collection of database that contain system configuration such as hardware, software, or the user's information.

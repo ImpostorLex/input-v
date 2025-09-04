@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/soc/soc-level-1-alert-reporting/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction
 ---
 During or after alert triage, L1 analysts may be uncertain about how to classify the alert, requiring senior support or information from the system owner.

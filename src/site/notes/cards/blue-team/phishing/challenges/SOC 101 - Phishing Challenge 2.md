@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/challenges/soc-101-phishing-challenge-2/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] 
+~ [[atlas/blue-team\|blue-team]] 
 ## Initial Triage
 ---
 The email seems legitimate as the email claims that they are from dropbox and the email is sent because the user or in this case receiver: emily.nguyen[@]glbllogistics.co requested a password reset.

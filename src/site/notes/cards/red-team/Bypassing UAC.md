@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/bypassing-uac/","tags":["red-team/host-evasion","sunday","template"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 User Account Control (UAC) is a feature that allows any process to run with low privileges independent of who runs it either admin or regular user .
@@ -22,7 +22,7 @@ User Account Control (UAC) is a feature that allows any process to run with low 
 
 ## Prerequisites
 ---
-- [[map-of-contents/windows\|windows]]
+- [[atlas/windows\|windows]]
 
 ## What is User Account Control
 

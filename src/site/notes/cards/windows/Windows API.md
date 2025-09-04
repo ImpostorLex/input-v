@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/windows/windows-api/","tags":["windows/ad"]}
 ---
 
-~ [[map-of-contents/windows\|windows]]
+~ [[atlas/windows\|windows]]
 ### Introduction
 ---
 The Windows API allows programs, or functions to interact with key components of the Windows Operating system, it is used by all red teamers, threat actors, blue teamers, software developers, and solution providers.

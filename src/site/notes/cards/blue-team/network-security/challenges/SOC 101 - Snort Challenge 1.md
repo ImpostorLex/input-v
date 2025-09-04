@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/network-security/challenges/soc-101-snort-challenge-1/"}
 ---
 
-[[cards/blue-team/network-security/Snort\|Snort]] | ~ [[map-of-contents/blue-team\|blue-team]]
+[[cards/blue-team/network-security/Snort\|Snort]] | ~ [[atlas/blue-team\|blue-team]]
 
 > First, investigate `snort_challenge.pcap` in **Wireshark** and identify any unique **User-Agent** strings. Upon doing so, what penetration testing tool did the attacker use to brute force the admin page of the web server?
 

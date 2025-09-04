@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/mitre-att-and-ck/","tags":["sunday","#soc"]}
 ---
 
-[[map-of-contents/red-team\|red-team]]
+[[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 A framework to model the steps and details of a cyber attack taken by certain groups. It stands for Adversarial Tactics, Techniques and Common Knowledge.

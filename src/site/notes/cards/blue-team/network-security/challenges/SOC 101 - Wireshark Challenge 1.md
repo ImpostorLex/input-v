@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/network-security/challenges/soc-101-wireshark-challenge-1/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] 
+~ [[atlas/blue-team\|blue-team]] 
 
 Here is the metadata of this `.pcap` file found at statistic's file properties:
 

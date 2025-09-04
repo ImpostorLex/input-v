@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/tricking-virus-total-or-any-scanning-agent/"}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 
 Source: https://medium.com/maverislabs/virustotal-is-not-an-incident-responder-80a6bb687eb9
 

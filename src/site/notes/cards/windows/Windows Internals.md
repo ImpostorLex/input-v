@@ -2,16 +2,16 @@
 {"dg-publish":true,"permalink":"/cards/windows/windows-internals/","tags":["windows","red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/windows\|windows]]
+~ [[atlas/windows\|windows]]
 ### Introduction
 ---
 To be a better red-teamer, it's important to understand what is Windows Internals and how they can be (ab)used such as using it to evade security controls and crafting offensive tools for exploitation.
 ### Key Topics
 ---
-- [[#Processes|Processes – Structure of a process, its components, and why it matters for execution]]
-- [[#Threads|Threads – How threads control execution and how they are manipulated in attacks]]
-- [[#Virtual Memory|Virtual Memory – Isolation, memory management, and its role in injection techniques]]
-- [[#DLL|DLL – How DLLs are loaded, and common abuse techniques like injection and hijacking]]
+- [[cards/windows/Windows Internals#Processes\|Processes – Structure of a process, its components, and why it matters for execution]]
+- [[cards/windows/Windows Internals#Threads\|Threads – How threads control execution and how they are manipulated in attacks]]
+- [[cards/windows/Windows Internals#Virtual Memory\|Virtual Memory – Isolation, memory management, and its role in injection techniques]]
+- [[cards/windows/Windows Internals#DLL\|DLL – How DLLs are loaded, and common abuse techniques like injection and hijacking]]
 ### Prerequisites
 ---
 - Windows Fundamental
@@ -74,6 +74,7 @@ Virtual memory is a **core part of how Windows handles memory**. It gives each p
 
 This makes memory usage **safer**, **more efficient**, and **more flexible**.
 
+![Windows Internals.png](/img/user/cards/windows/Windows%20Internals.png)
 #### How Virtual Memory Works
 ---
 - Every process gets its **own virtual address space** — completely isolated from others.

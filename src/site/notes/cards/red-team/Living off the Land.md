@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/living-off-the-land/","tags":["red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 The name is taken from real-life, its living by eating the available food on the land, applying this to cybersecurity, Windows comes off with a lot of binaries/tools pre-installed in the OS.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/network-security/t-shark/","tags":["blue-team/network-analysis/tshark"]}
 ---
 
-[[map-of-contents/Network-Traffic Analysis\|Network-Traffic Analysis]]
+[[atlas/Network-Traffic Analysis\|Network-Traffic Analysis]]
 
 A command line version of Wireshark that is suitable for data carving, in-depth packet analysis, and automation with scripts.
 

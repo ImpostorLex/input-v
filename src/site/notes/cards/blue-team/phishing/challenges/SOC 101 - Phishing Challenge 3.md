@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/phishing/challenges/soc-101-phishing-challenge-3/"}
 ---
 
-~ [[map-of-contents/blue-team\|blue-team]] 
+~ [[atlas/blue-team\|blue-team]] 
 ## Initial Triage
 ---
 The email claims that Emily (our user) is invited by Adam (sender) to their wedding and he is asking emily to fill up the attached survey.
