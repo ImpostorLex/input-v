@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/windows-event-logs/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 - **Event ID: 4624 (Logon Successs)** we can use the Logon ID to correlate other data.
 	- **Logon Type**: 2 for someone actually behind the machine, and 3 someone logon to the machine using the network.

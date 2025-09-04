@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/web/bug-bounty/cross-site-scripting/"}
 ---
 
-[[+ simmering/Bug Bounty\|Bug Bounty]]
+[[+/Bug Bounty\|Bug Bounty]]
 
 It is where malicious actor is able to inject scripst commonly javascript into a web application, the script is executed on the client side.
 

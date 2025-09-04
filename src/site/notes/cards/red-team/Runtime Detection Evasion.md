@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/runtime-detection-evasion/","tags":["red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 With the release of PowerShell, Microsoft released [[cards/red-team/AMSI (Anti-Malware Scan Interface)\|AMSI (Anti-Malware Scan Interface)]].

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/threat-intelligence/diamond-model-of-intrusion-analysis/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 The goal is to determine the adversary using the other 'points' in the model:
 

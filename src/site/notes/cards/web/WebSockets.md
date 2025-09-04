@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/web/web-sockets/","tags":["sunday"]}
 ---
 
-[[map-of-contents/web\|web]]
+[[atlas/web\|web]]
 ### Introduction 
 ---
 Websockets opens a constant line of communication between browser and server unlike the other method of asking something then getting a response.

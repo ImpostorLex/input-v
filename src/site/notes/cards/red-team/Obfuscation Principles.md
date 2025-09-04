@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/obfuscation-principles/","tags":["red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction 
 ---
 Obfuscation originated to protect software and intellectual property from being reproduced though adversaries have adapted it's use for malicious intent.

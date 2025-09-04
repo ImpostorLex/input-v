@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/sysmon/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 - Exclusion is better than inclusion.
 

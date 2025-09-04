@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/lnk-prefetch-files-and-jump-lists/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction
 ---
 These are other ways to determine what files are executed and how many times other than viewing the [[cards/blue-team/digital-forensics/Common Windows Forensics Artifacts#Program Execution\|registry]].

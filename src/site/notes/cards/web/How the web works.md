@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/web/how-the-web-works/"}
 ---
 
-[[map-of-contents/web\|map-of-contents/web]]
+[[atlas/web\|web]]
 
 WebQuery: google.com (retrieves A (IPv4) or AAAA (IPv6) records).
 Email Query: user@example[.]com (retrieves MX records or short for Mail exchange)

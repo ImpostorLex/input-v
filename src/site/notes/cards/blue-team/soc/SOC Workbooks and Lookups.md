@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/soc/soc-workbooks-and-lookups/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction
 ---
 Imagine the following:

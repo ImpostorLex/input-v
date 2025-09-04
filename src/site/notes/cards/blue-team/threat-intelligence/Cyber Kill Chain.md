@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/threat-intelligence/cyber-kill-chain/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 - **Reconnaissance**
 	- Information gathering to support the weaponization stage.

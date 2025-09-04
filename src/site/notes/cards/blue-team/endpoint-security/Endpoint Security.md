@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/endpoint-security/endpoint-security/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 - **Endpoint** are hardware or devices that is connected to our network.
 	- Point of entry for security threats.

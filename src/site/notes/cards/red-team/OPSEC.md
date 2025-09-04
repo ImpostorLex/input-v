@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/opsec/","tags":["red-team"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction
 ---
 A process on securing the plan and execution of sensitive activities by identifying, controlling, and protecting unclassified evidence.

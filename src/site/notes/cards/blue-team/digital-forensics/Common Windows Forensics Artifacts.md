@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/digital-forensics/common-windows-forensics-artifacts/"}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 ### Introduction
 ---
 These are common sources of evidence that can be found on a Windows system.

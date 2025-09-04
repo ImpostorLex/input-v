@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/threat-intelligence/tactics-techniques-procedures/","tags":["sec"]}
 ---
 
-[[map-of-contents/blue-team\|blue-team]]
+[[atlas/blue-team\|blue-team]]
 
 **See ATT&CK matrix for this**
 

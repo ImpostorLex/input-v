@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/reconnaissance-red-team/","tags":["red-team/ad","red-team/initial-access"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]]
+~ [[atlas/red-team\|red-team]]
 ### Introduction
 ---
 > _"Know your enemy, know his sword"_

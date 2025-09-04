@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/signature-evasion/","tags":["red-team/host-evasion"]}
 ---
 
-~ [[map-of-contents/red-team\|red-team]] | [[cards/red-team/Obfuscation Principles\|Obfuscation Principles]]
+~ [[atlas/red-team\|red-team]] | [[cards/red-team/Obfuscation Principles\|Obfuscation Principles]]
 ### Introduction 
 ---
 This covers how to identify and defeat malware signatures that persist even after obfuscation. You’ll learn how AV/EDR detections work, how to spot static and heuristic signatures, and apply advanced coding techniques to evade them using a tool-agnostic approach.
@@ -438,18 +438,13 @@ Antivirus might still flagged this:
     
 - The API behavior when it runs (behavioral analysis, not static).
 
-Counter this with (requires more knowledge and research #todo):
+Counter this with:
+
+todo:: requires more knowledge about below topic but for now it is enough since the purpose is mal dev.
 
 - **Position Independent Code (PIC):** Avoid importing even `LoadLibraryA`/`GetProcAddress` by resolving those dynamically too (manually walking the PEB).
     
 - **API Unhooking:** Restore clean versions of functions like `NtOpenProcess` from disk or PEB to bypass AV hooks. 
-
-
-
-
-
-
-
 
 ## Putting it All Together
 ---
