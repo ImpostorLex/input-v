@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/networking/virtualization-networking/"}
 ---
 
-[[networking]
+[[atlas/networking\|networking]]
 
 Created: 2023-08-13
 

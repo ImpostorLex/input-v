@@ -12,7 +12,8 @@ Email Query: user@example[.]com (retrieves MX records or short for Mail exchange
 2. The DNS resolver send the request to root nameserver (`a.root-server.com`, `b.root-server.com`) basically points resolve DNS to appropriate TLD. 
 3. Root nameserver redirect the request to the appropriate Top Level Domain nameserver using the domain's suffix : `.com`.
 4. TLD nameserver holds the records to find the appropriate authorative server.
-5. Finally DNS resolver make request to Authorative nameserver then it provides the IP address of the domain name.
+5. Finally DNS resolver make request to **Authorative nameserver** then it provides the IP address of the domain name.
+	- **Authorative nameserver** are the **final authority** on the domain — they hold the records the owner configured.
 	- **In the context of email:** the authorative nameserver gives the address of the mail server responsible for the domain, the responsibilities such as email processing and accepting email messages.
 
 **What if the request is not found on the last step?**
