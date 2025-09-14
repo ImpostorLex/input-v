@@ -38,6 +38,7 @@
 > | [[cards/red-team/Evading Logging and Monitoring\|Evading Logging and Monitoring]]                                       | 10:37 AM - August 22, 2025   |
 > | [[cards/red-team/Living off the Land\|Living off the Land]]                                                             | 4:12 PM - August 20, 2025    |
 > | [[cards/red-team/Network Security Solutions\|Network Security Evasion]]                                                 | 4:59 PM - September 02, 2025 |
+> | [[cards/red-team/Firewall Evasion Techniques\|Firewall Evasion Techniques]]                                             | 6:10 PM - September 11, 2025 |
 > 
 { .block-language-dataview}
 

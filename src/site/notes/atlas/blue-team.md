@@ -17,21 +17,6 @@ See challenges [[#chall|here]].
 > - [[cards/blue-team/threat-hunting/Threat Hunting\|Threat Hunting]]
 > - [[cards/red-team/Living off the Land#File Operations\|Living off the Land (red-team)]] - have a look here for some additional detection/threat hunting ideas
 
-> [!map]- Digital Forensics
->  | File                                                                                                              | Last Modified             |
-> | ----------------------------------------------------------------------------------------------------------------- | ------------------------- |
-> | [[cards/blue-team/digital-forensics/Digital Forensics\|Digital Forensics]]                                     | 6:40 PM - April 21, 2025  |
-> | [[cards/blue-team/digital-forensics/Chain of Custody\|Chain of Custody]]                                       | 4:13 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/FTK Imager\|FTK Imager]]                                                   | 4:13 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/Detecting Command-Line Obfuscation\|Detecting Command-Line Obfuscation]]   | 7:18 PM - April 03, 2025  |
-> | [[cards/blue-team/digital-forensics/Volatility\|Volatility]]                                                   | 4:13 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/Order of Volatility\|Order of Volatility]]                                 | 4:13 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/Common Windows Forensics Artifacts\|Common Windows Forensics Artifacts]]   | 4:14 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/Windows Forensics Artifact Triage\|Windows Forensics Artifact Triage]]     | 4:14 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/LNK, Prefetch Files, and Jump Lists\|LNK, Prefetch Files, and Jump Lists]] | 4:14 PM - August 20, 2025 |
-> 
-{ .block-language-dataview}
-
 > [!map]- Endpoint Security & Analysis
 >  | File                                                                                          | Last Modified               |
 > | --------------------------------------------------------------------------------------------- | --------------------------- |
@@ -47,18 +32,6 @@ See challenges [[#chall|here]].
 > | [[cards/blue-team/endpoint-security/Windows Services Analysis\|Windows Services Analysis]] | 4:15 PM - August 20, 2025   |
 > | [[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]                 | 4:15 PM - August 20, 2025   |
 > | [[cards/blue-team/endpoint-security/Windows Event Logs\|Windows Event Logs]]               | 4:15 PM - August 20, 2025   |
-> 
-{ .block-language-dataview}
-
-> [!map]- Network Analysis
->  | File                                                                                                                                                       | Last Modified              |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-> | [[cards/blue-team/network-security/TShark\|TShark]]                                                                                                     | 6:44 PM - April 21, 2025   |
-> | [[cards/blue-team/network-security/tcpdump\|tcpdump]]                                                                                                   | 4:15 PM - August 20, 2025  |
-> | [[cards/blue-team/network-security/Snort\|Snort]]                                                                                                       | 6:44 PM - April 21, 2025   |
-> | [[cards/blue-team/network-security/Intrusion Detection and Prevention System\|Intrusion Detection and Prevention System]]                               | 6:44 PM - April 21, 2025   |
-> | [[cards/blue-team/network-security/Snort IPS mode - why the need for two network interface?\|Snort IPS mode - why the need for two network interface?]] | 7:19 PM - January 18, 2025 |
-> | [[cards/blue-team/network-security/Wireshark\|Wireshark]]                                                                                               | 6:45 PM - April 21, 2025   |
 > 
 { .block-language-dataview}
 
@@ -82,26 +55,6 @@ See challenges [[#chall|here]].
 > 
 { .block-language-dataview}
 
-> [!map]- Security Information & Event Management
->  | File                                                                                                                 | Last Modified               |
-> | -------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-> | [[cards/blue-team/siem/SOC Core Skills\|SOC Core Skills]]                                                         | 6:41 PM - April 21, 2025    |
-> | [[cards/blue-team/siem/Enabling Suricata and Sending Logs to Wazuh\|Enabling Suricata and Sending Logs to Wazuh]] | 9:06 PM - August 22, 2024   |
-> | [[cards/blue-team/siem/CAS - XSS\|CAS - XSS]]                                                                     | 5:48 PM - February 01, 2025 |
-> | [[cards/blue-team/siem/CAS - SQL Injection\|CAS - SQL Injection]]                                                 | 5:43 PM - February 01, 2025 |
-> | [[cards/blue-team/siem/splunk/Splunk Data Manipulation\|Splunk Data Manipulation]]                                | 10:43 AM - April 14, 2025   |
-> | [[cards/blue-team/siem/CAS - User Behavior\|CAS - User Behavior]]                                                 | 5:34 PM - February 01, 2025 |
-> | [[cards/blue-team/siem/Common Attack Signatures\|Common Attack Signatures]]                                       | 5:54 PM - February 01, 2025 |
-> | [[cards/blue-team/siem/Splunk Map\|Splunk Map]]                                                                   | 1:05 PM - April 13, 2025    |
-> | [[cards/blue-team/siem/Command-Line Log Analysis\|Command-Line Log Analysis]]                                     | 4:16 PM - August 20, 2025   |
-> | [[cards/blue-team/siem/Security Information and Event Management\|Security Information and Event Management]]     | 4:16 PM - August 20, 2025   |
-> | [[cards/blue-team/siem/CAS - Command Injection\|CAS - Command Injection]]                                         | 5:53 PM - February 01, 2025 |
-> | [[cards/blue-team/siem/Structured Log Analysis\|Structured Log Analysis]]                                         | 6:42 PM - April 21, 2025    |
-> | [[cards/blue-team/siem/splunk/Splunk\|Splunk]]                                                                    | 1:04 PM - April 13, 2025    |
-> | [[cards/blue-team/siem/CAS Path Traversal and Local File Inclusion\|CAS Path Traversal and Local File Inclusion]] | 8:55 PM - February 01, 2025 |
-> 
-{ .block-language-dataview}
-
 > [!map]- Threat Intelligence
 >  | File                                                                                                                      | Last Modified                |
 > | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
@@ -119,10 +72,30 @@ See challenges [[#chall|here]].
 > 
 { .block-language-dataview}
 
-> [!map]+ Threat Hunting
->  | File                                                                 | Last Modified            |
-> | -------------------------------------------------------------------- | ------------------------ |
-> | [[cards/blue-team/threat-hunting/Threat Hunting\|Threat Hunting]] | 3:29 PM - April 14, 2025 |
+> [!map]- Network Analysis
+>  | File                                                                                                                                                       | Last Modified              |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+> | [[cards/blue-team/network-security/TShark\|TShark]]                                                                                                     | 6:44 PM - April 21, 2025   |
+> | [[cards/blue-team/network-security/tcpdump\|tcpdump]]                                                                                                   | 4:15 PM - August 20, 2025  |
+> | [[cards/blue-team/network-security/Snort\|Snort]]                                                                                                       | 6:44 PM - April 21, 2025   |
+> | [[cards/blue-team/network-security/Intrusion Detection and Prevention System\|Intrusion Detection and Prevention System]]                               | 6:44 PM - April 21, 2025   |
+> | [[cards/blue-team/network-security/Snort IPS mode - why the need for two network interface?\|Snort IPS mode - why the need for two network interface?]] | 7:19 PM - January 18, 2025 |
+> | [[cards/blue-team/network-security/Wireshark\|Wireshark]]                                                                                               | 6:45 PM - April 21, 2025   |
+> 
+{ .block-language-dataview}
+
+> [!map]- Digital Forensics
+>  | File                                                                                                              | Last Modified             |
+> | ----------------------------------------------------------------------------------------------------------------- | ------------------------- |
+> | [[cards/blue-team/digital-forensics/Digital Forensics\|Digital Forensics]]                                     | 6:40 PM - April 21, 2025  |
+> | [[cards/blue-team/digital-forensics/Chain of Custody\|Chain of Custody]]                                       | 4:13 PM - August 20, 2025 |
+> | [[cards/blue-team/digital-forensics/FTK Imager\|FTK Imager]]                                                   | 4:13 PM - August 20, 2025 |
+> | [[cards/blue-team/digital-forensics/Detecting Command-Line Obfuscation\|Detecting Command-Line Obfuscation]]   | 7:18 PM - April 03, 2025  |
+> | [[cards/blue-team/digital-forensics/Volatility\|Volatility]]                                                   | 4:13 PM - August 20, 2025 |
+> | [[cards/blue-team/digital-forensics/Order of Volatility\|Order of Volatility]]                                 | 4:13 PM - August 20, 2025 |
+> | [[cards/blue-team/digital-forensics/Common Windows Forensics Artifacts\|Common Windows Forensics Artifacts]]   | 4:14 PM - August 20, 2025 |
+> | [[cards/blue-team/digital-forensics/Windows Forensics Artifact Triage\|Windows Forensics Artifact Triage]]     | 4:14 PM - August 20, 2025 |
+> | [[cards/blue-team/digital-forensics/LNK, Prefetch Files, and Jump Lists\|LNK, Prefetch Files, and Jump Lists]] | 4:14 PM - August 20, 2025 |
 > 
 { .block-language-dataview}
 
@@ -135,6 +108,33 @@ See challenges [[#chall|here]].
 > | [[cards/blue-team/incident-response/Preparation\|Preparation]]         | 4:17 PM - August 20, 2025 |
 > | [[cards/blue-team/incident-response/Lessons Learned\|Lessons Learned]] | 4:17 PM - August 20, 2025 |
 > | [[cards/blue-team/incident-response/Identification\|Identification]]   | 4:17 PM - August 20, 2025 |
+> 
+{ .block-language-dataview}
+
+> [!map]+ Threat Hunting
+>  | File                                                                 | Last Modified            |
+> | -------------------------------------------------------------------- | ------------------------ |
+> | [[cards/blue-team/threat-hunting/Threat Hunting\|Threat Hunting]] | 3:29 PM - April 14, 2025 |
+> 
+{ .block-language-dataview}
+
+> [!map]- Security Information & Event Management
+>  | File                                                                                                                 | Last Modified               |
+> | -------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+> | [[cards/blue-team/siem/SOC Core Skills\|SOC Core Skills]]                                                         | 6:41 PM - April 21, 2025    |
+> | [[cards/blue-team/siem/Enabling Suricata and Sending Logs to Wazuh\|Enabling Suricata and Sending Logs to Wazuh]] | 9:06 PM - August 22, 2024   |
+> | [[cards/blue-team/siem/CAS - XSS\|CAS - XSS]]                                                                     | 5:48 PM - February 01, 2025 |
+> | [[cards/blue-team/siem/CAS - SQL Injection\|CAS - SQL Injection]]                                                 | 5:43 PM - February 01, 2025 |
+> | [[cards/blue-team/siem/splunk/Splunk Data Manipulation\|Splunk Data Manipulation]]                                | 10:43 AM - April 14, 2025   |
+> | [[cards/blue-team/siem/CAS - User Behavior\|CAS - User Behavior]]                                                 | 5:34 PM - February 01, 2025 |
+> | [[cards/blue-team/siem/Common Attack Signatures\|Common Attack Signatures]]                                       | 5:54 PM - February 01, 2025 |
+> | [[cards/blue-team/siem/Splunk Map\|Splunk Map]]                                                                   | 1:05 PM - April 13, 2025    |
+> | [[cards/blue-team/siem/Command-Line Log Analysis\|Command-Line Log Analysis]]                                     | 4:16 PM - August 20, 2025   |
+> | [[cards/blue-team/siem/Security Information and Event Management\|Security Information and Event Management]]     | 4:16 PM - August 20, 2025   |
+> | [[cards/blue-team/siem/CAS - Command Injection\|CAS - Command Injection]]                                         | 5:53 PM - February 01, 2025 |
+> | [[cards/blue-team/siem/Structured Log Analysis\|Structured Log Analysis]]                                         | 6:42 PM - April 21, 2025    |
+> | [[cards/blue-team/siem/splunk/Splunk\|Splunk]]                                                                    | 1:04 PM - April 13, 2025    |
+> | [[cards/blue-team/siem/CAS Path Traversal and Local File Inclusion\|CAS Path Traversal and Local File Inclusion]] | 8:55 PM - February 01, 2025 |
 > 
 { .block-language-dataview}
 

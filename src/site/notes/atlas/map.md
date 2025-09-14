@@ -9,17 +9,17 @@
 > [!map]+ My maps
 >  | Map                                                                                           |
 > | --------------------------------------------------------------------------------------------- |
-> | [[atlas/red-team\|red-team]]                                                               |
+> | [[atlas/concepts\|concepts that is not directly aligned with my field but can be applied]] |
 > | [[atlas/windows\|windows]]                                                                 |
 > | [[atlas/web\|web]]                                                                         |
+> | [[atlas/red-team\|red-team]]                                                               |
 > | [[atlas/post-compromise\|post-compromise]]                                                 |
+> | [[atlas/active-directory\|active-directory]]                                               |
 > | [[atlas/networking\|networking]]                                                           |
 > | [[atlas/malware\|malware analysis - can also be used for red teaming]]                     |
 > | [[atlas/linux\|linux]]                                                                     |
 > | [[atlas/dots\|dots]]                                                                       |
-> | [[atlas/concepts\|concepts that is not directly aligned with my field but can be applied]] |
 > | [[atlas/blue-team\|blue-team]]                                                             |
-> | [[atlas/active-directory\|active-directory]]                                               |
 > 
 { .block-language-dataview}
 
