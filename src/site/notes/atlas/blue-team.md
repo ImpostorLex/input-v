@@ -8,30 +8,29 @@
 
 See challenges [[#chall|here]].
 
-> [!danger]+ quick start
+> [!danger]+ quick start | one liners, small scripts, t
 > - [[cards/blue-team/phishing/Email Analysis\|Email Analysis]]
 > - [[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]
-> - [[cards/blue-team/digital-forensics/Digital Forensics\|Digital Forensics]]
-> - [[Incident Response\|Incident Response]]
+>- [[cards/blue-team/IP and Domain Threat Intelligence References\|Enriching IP and Domain Threat Intelligence]]
 > - [[cards/blue-team/threat-intelligence/Threat Intelligence\|Threat Intelligence]]
 > - [[cards/blue-team/threat-hunting/Threat Hunting\|Threat Hunting]]
 > - [[cards/red-team/Living off the Land#File Operations\|Living off the Land (red-team)]] - have a look here for some additional detection/threat hunting ideas
 
 > [!map]- Endpoint Security & Analysis
->  | File                                                                                          | Last Modified               |
-> | --------------------------------------------------------------------------------------------- | --------------------------- |
-> | [[cards/blue-team/endpoint-security/Windows Scheduled Tasks\|Windows Scheduled Tasks]]     | 4:14 PM - August 20, 2025   |
-> | [[cards/blue-team/endpoint-security/Windows Network Analysis\|Windows Network Analysis]]   | 4:14 PM - August 20, 2025   |
-> | [[cards/blue-team/endpoint-security/Linux Network Analysis\|Linux Network Analysis]]       | 4:14 PM - August 20, 2025   |
-> | [[cards/blue-team/endpoint-security/Linux Cron Jobs\|Linux Cron Jobs]]                     | 6:41 PM - April 21, 2025    |
-> | [[cards/blue-team/endpoint-security/LimaCharlie\|LimaCharlie]]                             | 4:14 PM - August 20, 2025   |
-> | [[cards/blue-team/endpoint-security/Windows Process Analysis\|Windows Process Analysis]]   | 6:38 PM - April 21, 2025    |
-> | [[cards/blue-team/endpoint-security/Windows Registry\|Windows Registry]]                   | 5:57 PM - February 21, 2025 |
-> | [[cards/blue-team/endpoint-security/Sysmon\|Sysmon]]                                       | 6:41 PM - April 21, 2025    |
-> | [[cards/blue-team/endpoint-security/Linux Process Analysis\|Linux Process Analysis]]       | 9:08 PM - August 02, 2025   |
-> | [[cards/blue-team/endpoint-security/Windows Services Analysis\|Windows Services Analysis]] | 4:15 PM - August 20, 2025   |
-> | [[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]                 | 4:15 PM - August 20, 2025   |
-> | [[cards/blue-team/endpoint-security/Windows Event Logs\|Windows Event Logs]]               | 4:15 PM - August 20, 2025   |
+>  | File                                                                                          | Last Modified                |
+> | --------------------------------------------------------------------------------------------- | ---------------------------- |
+> | [[cards/blue-team/endpoint-security/Windows Scheduled Tasks\|Windows Scheduled Tasks]]     | 4:14 PM - August 20, 2025    |
+> | [[cards/blue-team/endpoint-security/Windows Network Analysis\|Windows Network Analysis]]   | 4:14 PM - August 20, 2025    |
+> | [[cards/blue-team/endpoint-security/Linux Network Analysis\|Linux Network Analysis]]       | 4:14 PM - August 20, 2025    |
+> | [[cards/blue-team/endpoint-security/Linux Cron Jobs\|Linux Cron Jobs]]                     | 6:41 PM - April 21, 2025     |
+> | [[cards/blue-team/endpoint-security/LimaCharlie\|LimaCharlie]]                             | 4:14 PM - August 20, 2025    |
+> | [[cards/blue-team/endpoint-security/Windows Process Analysis\|Windows Process Analysis]]   | 6:38 PM - April 21, 2025     |
+> | [[cards/blue-team/endpoint-security/Windows Registry\|Windows Registry]]                   | 5:57 PM - February 21, 2025  |
+> | [[cards/blue-team/endpoint-security/Sysmon\|Sysmon]]                                       | 6:41 PM - April 21, 2025     |
+> | [[cards/blue-team/endpoint-security/Linux Process Analysis\|Linux Process Analysis]]       | 9:08 PM - August 02, 2025    |
+> | [[cards/blue-team/endpoint-security/Windows Services Analysis\|Windows Services Analysis]] | 4:15 PM - August 20, 2025    |
+> | [[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]                 | 7:37 PM - September 16, 2025 |
+> | [[cards/blue-team/endpoint-security/Windows Event Logs\|Windows Event Logs]]               | 4:15 PM - August 20, 2025    |
 > 
 { .block-language-dataview}
 

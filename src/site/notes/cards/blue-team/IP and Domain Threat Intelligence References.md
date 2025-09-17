@@ -10,48 +10,104 @@ It's important you know the [[cards/blue-team/threat-intelligence/IP and Domain 
 ## DNS Building Blocks
 ---
 
-- `nslookup <domain>` or [dnschecker.org](https://dnschecker.org) → Get **A, NS, MX, TXT, SOA, TTL**.
-- [whois.domaintools.com](https://whois.domaintools.com) or `whois <domain>` → Registrar, creation date, ownership.
-- Compare IP churn: repeat `nslookup` — note if IPs belong to **different ASNs** → possible fast flux.
-- Typosquatting check: visually inspect domain (`paypal.com` vs `paypa1.com`).
-- For Unicode lookalikes → [punycode converter](https://www.punycoder.com/).
+- **Get core records**
+	- Command / site: `nslookup <domain>` or `dig +noall +answer <domain>`
+	- Web: https://dnschecker.org
+	-  What to note: A/AAAA, NS, MX, TXT, SOA, TTL values and any very low TTLs.
+
+- **Registrar and age**
+	- Command / site: `whois <domain>` or https://whois.domaintools.com
+	- What to note: registrar, creation date, expiration, registrant organization, privacy service.
+
+- **IP churn / fast-flux check**
+	- Repeat DNS queries over a few minutes; use https://dnschecker.org to view global A record distribution.
+	- What to note: multiple unrelated ASNs, frequent changes, low TTLs.
+
+- **Typosquatting and Unicode**
+
+	- Visual check for character swaps and lookalikes; convert to punycode if needed.
+	- Tool: https://www.punycoder.com
+	- What to note: subtle character differences or use of non-Latin characters.
+
 ## IP Enrichment (RDAP, ASN, Geo)
 ---
-- RDAP: [rdap.org](https://rdap.org) or `whois <ip>` → org, allocation date, netblock size.
-- ASN context: [bgpview.io](https://bgpview.io) or [ipinfo.io](https://ipinfo.io).
-- Geolocation: [iplocation.net](https://iplocation.net) (use 2+ sources) → note mismatches.
-- rDNS: `dig -x <ip>` → can hint at hosting type (cloud, ISP, residential).
-- Logs: Search internal SIEM/Proxy for last 30 days activity.
-- Classify: Hosting, residential ISP, CDN, or cloud.
 
-## Services & Certificates
+- **RDAP / ownership**
+	- Site / command: https://rdap.org or `whois <ip>`
+	- What to note: organization name, abuse contact, allocation date, netblock size.
+
+- **ASN and vendor classification**
+	- Sites: https://bgpview.io, https://ipinfo.io
+	- What to note: ASN owner, whether ASN is cloud/hosting/CDN/residential, common netblocks.
+
+- **Geolocation**
+	- Sites: https://iplocation.net, https://ipinfo.io
+	- What to note: country from at least two sources, note discrepancies and treat city-level as low confidence.
+
+- **Reverse DNS**
+	- Command: `dig -x <ip>` or `host <ip>`
+	- What to note: rDNS pattern indicating hosting provider or consumer ISP.
+
+- **Internal context**
+
+	- Search SIEM / proxy logs for occurrences in the last 30 days.
+	- What to note: frequency, user agents, destination URLs, timestamps.
+
+## Services and Certificates
 ---
-- Shodan: `https://www.shodan.io/host/<IP>` → open ports, banners.
-- Censys: [search.censys.io](https://search.censys.io) → certificates, banners, related infra.
-- TLS certificate check: Browser padlock → “View Certificate.”
-    - Issuer → Let's Encrypt/self-signed/suspicious.
-    - SANs → multiple unrelated = shared infra.
-    - Validity period → very short = throwaway.
-- Pivot: Use certificate fingerprint in [crt.sh](https://crt.sh).
-## Reputation & Historical Context
+
+- **Open ports and banners**
+	- Sites: https://www.shodan.io/host/<IP>, https://search.censys.io
+	- What to note: open ports, service banners, software versions, unusual ports like admin panels.
+
+- **TLS certificate facts**
+	- Inspect in browser padlock or use crt.sh and Censys.
+	- What to note: issuer, SANs, validity dates, certificate fingerprint.
+
+- **Certificate pivots**
+	- Site: https://crt.sh (search fingerprint or SAN)
+	- What to note: sibling domains using same cert, sudden bursts of certificates.
+
+- **Blast-radius assessment**
+	- Rule of thumb: RDP/SSH on residential IPs suggests compromise; many unrelated SANs on cert suggests shared infra; self-signed cert on small netblock suggests attacker panel.
+## Reputation and Historical Context
 ---
-- VirusTotal: [virustotal.com](https://virustotal.com) → detection ratio, first/last seen.
-- Cisco Talos: [talosintelligence.com](https://talosintelligence.com) → web/email reputation.
-- IP2Proxy: [ip2proxy.com](https://www.ip2proxy.com/) → VPN/proxy/Tor exit.
-- Passive DNS: [securitytrails.com](https://securitytrails.com) or [dnsdb.info](https://dnsdb.info) → first/last seen, churn, ASN spread.
-- CT logs: [crt.sh](https://crt.sh) → certificate issuance history.
-- Wayback Machine: [web.archive.org](https://web.archive.org) → historical content.
+- **VirusTotal**
+	- Site: https://www.virustotal.com
+	- What to note: detection ratio, first seen, last seen, community comments, associated files/URLs.
 
-## Operational Integration (Actions)
+- **Cisco Talos and other reputations**
+	- Site: https://talosintelligence.com
+	- What to note: category, recent changes in score, email/web reputation.
+- **Proxy/VPN/Tor checks**
+	- Site: https://www.ip2proxy.com or https://ipinfo.io
+	- What to note: flagged as proxy, VPN, or Tor exit.
+
+- **Passive DNS and churn**
+	- Sites: https://securitytrails.com, https://dnsdb.info (paid), https://viewdns.info
+	- What to note: first seen, last seen, number of distinct IPs, ASN spread in window.
+
+- **Certificate Transparency and Wayback**
+	- Sites: https://crt.sh and https://web.archive.org
+	- What to note: certificate issuance bursts (or multiple certs different contexts), historical content changes (clean site that recently became phishing).
+
+## Quick Action Guidance (operational)
 ---
-- Prefer **hostname blocks** > IP blocks.
-- If IP block needed → restrict to smallest CIDR.
-- Always **set expiry** (7–30 days typical).
-- Log reasoning: source, evidence, and decision.
-- Cloud/CDN infra → block by **domain/path**, not ASN.
-- For abuse handling:
-    - Google → [support.google.com/legal](https://support.google.com/legal)  
-    - Microsoft → [abuse reports](https://www.microsoft.com/en-us/msrc/abuse)  
-    - AWS → abuse@amazonaws.com  
 
+- Prefer blocking FQDN or URL path over IP where possible.
+- If blocking IP, restrict to minimal CIDR and set an explicit expiry date (suggestion: 7–30 days depending on evidence).
+- Document evidence with screenshots/log snippets, source/time, and analyst rationale.
+- For cloud/CDN-hosted infra, submit abuse/takedown to provider rather than broad IP blocks.
+  - Examples: Google abuse form, AWS abuse@amazonaws.com, Microsoft security/abuse pages.
+- Preserve artifacts if escalation is needed: save HTTP responses, certificate fingerprints, pcap or SIEM logs.
 
+## Fast command cheat-sheet (copy-paste)
+---
+
+- DNS: `nslookup example.com`  or `dig +noall +answer example.com`
+- WHOIS/ RDAP: `whois example.com`  or `curl https://rdap.org/domain/example.com`
+- Reverse DNS: `dig -x 1.2.3.4`
+- Shodan lookup: open `https://www.shodan.io/host/1.2.3.4`
+- Cert pivot: open `https://crt.sh/?q=<cert_fingerprint_or_domain>`
+- Passive DNS (SecurityTrails): open `https://securitytrails.com/domain/example.com/history/a`
+- VirusTotal: open `https://www.virustotal.com/gui/domain/example.com` or `https://www.virustotal.com/gui/ip-address/1.2.3.4`
