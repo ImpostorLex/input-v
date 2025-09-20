@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/atlas/blue-team/","tags":["map"]}
 ---
 
-[[input\|input]]
+~ [[atlas/map\|map]]
 
 **A map can exist inside a map.**
 
-See challenges [[#chall|here]].
+See challenges [[atlas/blue-team#Challenges\|here]].
 
 > [!danger]+ quick start | one liners, small scripts, t
 > - [[cards/blue-team/phishing/Email Analysis\|Email Analysis]]

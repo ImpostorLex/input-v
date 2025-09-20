@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/linux/linux-proc-file-system/"}
 ---
 
-[[cards/blue-team/endpoint-security/Linux Process Analysis\|Linux Process Analysis]]
+~ [[cards/blue-team/endpoint-security/Linux Process Analysis\|Linux Process Analysis]] | ~ [[atlas/linux\|linux]]
 
 - location: `/proc`
 - It is a virtual file system that does not correspond to any physical storage, all of it is in memory.
