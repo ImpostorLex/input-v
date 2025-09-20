@@ -19,6 +19,7 @@ These are common sources of evidence that can be found on a Windows system.
 ### Kroll Artifact Parser And Extracter (KAPE)
 ---
 
+- **Purpose:** Extract registries for later analysis.
 - Search for "registry" and check all checkboxes, it all should start with the word 'registry'
 - Again, ideally the target destination should be an **external storage**.
 - [[KAPE\|KAPE]]
@@ -148,7 +149,14 @@ NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
 ## Program Execution (Investigation)
 ---
 
+**Note:** replace NTUSER.dat with (HKCU):
+
+```C
+reg query "HKCU\Software\Microsoft\Windows\Shell\Bags"
+```
+
 **Viewing what program the user executed and how many times:**
+
 ```C
 NTUSER.DAT\Software\Microsoft\Windows\Currentversion\Explorer\UserAssist\{GUID}\Count
 ```

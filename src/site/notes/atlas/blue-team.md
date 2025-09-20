@@ -84,17 +84,17 @@ See challenges [[atlas/blue-team#Challenges\|here]].
 { .block-language-dataview}
 
 > [!map]- Digital Forensics
->  | File                                                                                                              | Last Modified             |
-> | ----------------------------------------------------------------------------------------------------------------- | ------------------------- |
-> | [[cards/blue-team/digital-forensics/Digital Forensics\|Digital Forensics]]                                     | 6:40 PM - April 21, 2025  |
-> | [[cards/blue-team/digital-forensics/Chain of Custody\|Chain of Custody]]                                       | 4:13 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/FTK Imager\|FTK Imager]]                                                   | 4:13 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/Detecting Command-Line Obfuscation\|Detecting Command-Line Obfuscation]]   | 7:18 PM - April 03, 2025  |
-> | [[cards/blue-team/digital-forensics/Volatility\|Volatility]]                                                   | 4:13 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/Order of Volatility\|Order of Volatility]]                                 | 4:13 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/Common Windows Forensics Artifacts\|Common Windows Forensics Artifacts]]   | 4:14 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/Windows Forensics Artifact Triage\|Windows Forensics Artifact Triage]]     | 4:14 PM - August 20, 2025 |
-> | [[cards/blue-team/digital-forensics/LNK, Prefetch Files, and Jump Lists\|LNK, Prefetch Files, and Jump Lists]] | 4:14 PM - August 20, 2025 |
+>  | File                                                                                                              | Last Modified                |
+> | ----------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+> | [[cards/blue-team/digital-forensics/Digital Forensics\|Digital Forensics]]                                     | 6:40 PM - April 21, 2025     |
+> | [[cards/blue-team/digital-forensics/Chain of Custody\|Chain of Custody]]                                       | 4:13 PM - August 20, 2025    |
+> | [[cards/blue-team/digital-forensics/FTK Imager\|FTK Imager]]                                                   | 4:13 PM - August 20, 2025    |
+> | [[cards/blue-team/digital-forensics/Detecting Command-Line Obfuscation\|Detecting Command-Line Obfuscation]]   | 7:18 PM - April 03, 2025     |
+> | [[cards/blue-team/digital-forensics/Volatility\|Volatility]]                                                   | 4:13 PM - August 20, 2025    |
+> | [[cards/blue-team/digital-forensics/Order of Volatility\|Order of Volatility]]                                 | 4:13 PM - August 20, 2025    |
+> | [[cards/blue-team/digital-forensics/Common Windows Forensics Artifacts\|Common Windows Forensics Artifacts]]   | 6:35 PM - September 20, 2025 |
+> | [[cards/blue-team/digital-forensics/Windows Forensics Artifact Triage\|Windows Forensics Artifact Triage]]     | 4:14 PM - August 20, 2025    |
+> | [[cards/blue-team/digital-forensics/LNK, Prefetch Files, and Jump Lists\|LNK, Prefetch Files, and Jump Lists]] | 4:14 PM - August 20, 2025    |
 > 
 { .block-language-dataview}
 
