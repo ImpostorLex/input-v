@@ -111,3 +111,5 @@ It's important you know the [[cards/blue-team/threat-intelligence/IP and Domain 
 - Cert pivot: open `https://crt.sh/?q=<cert_fingerprint_or_domain>`
 - Passive DNS (SecurityTrails): open `https://securitytrails.com/domain/example.com/history/a`
 - VirusTotal: open `https://www.virustotal.com/gui/domain/example.com` or `https://www.virustotal.com/gui/ip-address/1.2.3.4`
+
+~And 1.~

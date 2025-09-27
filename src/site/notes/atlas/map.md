@@ -9,11 +9,11 @@
 > [!map]+ My maps
 >  | Map                                                                                           |
 > | --------------------------------------------------------------------------------------------- |
-> | [[atlas/networking\|networking]]                                                           |
 > | [[atlas/windows\|windows]]                                                                 |
 > | [[atlas/web\|web]]                                                                         |
 > | [[atlas/red-team\|red-team]]                                                               |
 > | [[atlas/post-compromise\|post-compromise]]                                                 |
+> | [[atlas/networking\|networking]]                                                           |
 > | [[atlas/malware\|malware analysis - can also be used for red teaming]]                     |
 > | [[atlas/linux\|linux]]                                                                     |
 > | [[atlas/dots\|dots]]                                                                       |
