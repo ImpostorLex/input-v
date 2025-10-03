@@ -16,6 +16,8 @@
 | [[cards/active-directory/Group Policy Objects\|Group Policy Objects]]                                             | true       |
 | [[cards/active-directory/Kerberos\|Kerberos]]                                                                     | true       |
 | [[cards/active-directory/Lightweight Directory Access Protocol\|Lightweight Directory Access Protocol]]           | true       |
+| [[cards/active-directory/New Technology LAN Manager (NTLM)\|New Technology LAN Manager (NTLM)]]                   | true       |
+| [[cards/active-directory/Server Message Block (SMB)\|Server Message Block (SMB)]]                                 | true       |
 
 { .block-language-dataview}
 

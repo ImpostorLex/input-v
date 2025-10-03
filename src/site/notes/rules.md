@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/rules/"}
 ---
 
-in~ [[input\|input]]
+~ [[input\|input]]
 
 **A dedicated note section that gives an overview of how I write and structure my notes.**
 

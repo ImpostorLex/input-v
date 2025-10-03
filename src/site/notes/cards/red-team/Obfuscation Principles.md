@@ -187,7 +187,7 @@ int index = loggedIn + 0x1234;
 	- Waste time for analysts and reverse engineer.
 	- such as `runMaliciousCode()` obviously something this obvious in a obfuscated code will not fool any analyst so the idea is to make the code 'shiny' at the same time won't be easily flag as useless by the analyst
 
-Read [[Sandbox Evasion\|sandbox evasion]] for more info about anti-analysis and anti-reversing.
+Read [[cards/red-team/Sandbox Evasion\|sandbox evasion]] for more info about anti-analysis and anti-reversing.
 
 ## Control Flow
 ---

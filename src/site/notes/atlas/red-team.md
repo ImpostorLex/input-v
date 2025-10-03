@@ -38,6 +38,7 @@
 > | [[cards/red-team/Living off the Land\|Living off the Land]]                                                             | 4:12 PM - August 20, 2025    |
 > | [[cards/red-team/Network Security Solutions\|Network Security Evasion]]                                                 | 4:59 PM - September 02, 2025 |
 > | [[cards/red-team/Firewall Evasion Techniques\|Firewall Evasion Techniques]]                                             | 6:10 PM - September 11, 2025 |
+> | [[cards/red-team/Sandbox Evasion\|Sandbox Evasion]]                                                                     | 10:27 AM - October 03, 2025  |
 > 
 { .block-language-dataview}
 
@@ -67,6 +68,16 @@
 >  | Title                                           | Last Modified           |
 > | ----------------------------------------------- | ----------------------- |
 > | [[cards/red-team/OPSEC\|Operation Security]] | 7:05 PM - July 12, 2025 |
+> 
+{ .block-language-dataview}
+
+> [!warning]- ACTIVE DIRECTORY
+>  | File                                                                                                                 |
+> | -------------------------------------------------------------------------------------------------------------------- |
+> | [[cards/red-team/Reconnaissance - Red Team\|Reconnaissance - Red Team]]                                           |
+> | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                             |
+> | [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]] |
+> | [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]                                         |
 > 
 { .block-language-dataview}
 
