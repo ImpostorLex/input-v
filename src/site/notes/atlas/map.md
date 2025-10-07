@@ -10,7 +10,6 @@
 >  | Map                                                                                           |
 > | --------------------------------------------------------------------------------------------- |
 > | [[atlas/active-directory\|active-directory]]                                               |
-> | [[atlas/blue-team\|blue-team]]                                                             |
 > | [[atlas/concepts\|concepts that is not directly aligned with my field but can be applied]] |
 > | [[atlas/dots\|dots]]                                                                       |
 > | [[atlas/linux\|linux]]                                                                     |
@@ -20,6 +19,7 @@
 > | [[atlas/red-team\|red-team]]                                                               |
 > | [[atlas/web\|web]]                                                                         |
 > | [[atlas/windows\|windows]]                                                                 |
+> | [[atlas/blue-team\|blue-team]]                                                             |
 > 
 { .block-language-dataview}
 
