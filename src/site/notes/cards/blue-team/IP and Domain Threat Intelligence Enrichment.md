@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/blue-team/ip-and-domain-threat-intelligence-enrichment/","tags":["blue-team"]}
 ---
 
-~ [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|IP and Domain Threat Intel]]
+[[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|IP and Domain Threat Intel]]
 ### Introduction
 ---
 It's important you know the [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|WHY]] first before proceeding:
@@ -112,4 +112,3 @@ It's important you know the [[cards/blue-team/threat-intelligence/IP and Domain 
 - Passive DNS (SecurityTrails): open `https://securitytrails.com/domain/example.com/history/a`
 - VirusTotal: open `https://www.virustotal.com/gui/domain/example.com` or `https://www.virustotal.com/gui/ip-address/1.2.3.4`
 
-~And 1.~
