@@ -11,7 +11,7 @@ See challenges [[atlas/blue-team#Challenges\|here]].
 > [!danger]+ quick start | one liners, small scripts, t
 > - [[cards/blue-team/phishing/Email Analysis\|Email Analysis]]
 > - [[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]
->- [[cards/blue-team/IP and Domain Threat Intelligence Enrichment\|Enriching IP and Domain Threat Intelligence]]
+>- [[cards/blue-team/IP and Domain Threat Intel Ref\|Enriching IP and Domain Threat Intelligence]]
 > - [[cards/blue-team/threat-intelligence/Threat Intelligence\|Threat Intelligence]]
 > - [[cards/blue-team/threat-hunting/Threat Hunting\|Threat Hunting]]
 > - [[cards/red-team/Living off the Land#File Operations\|Living off the Land (red-team)]] - have a look here for some additional detection/threat hunting ideas
@@ -67,7 +67,7 @@ See challenges [[atlas/blue-team#Challenges\|here]].
 > | [[cards/blue-team/threat-intelligence/Tactics, Techniques, Procedures\|Tactics, Techniques, Procedures]]               | 7:20 PM - April 21, 2025   |
 > | [[cards/blue-team/threat-intelligence/Cyber Kill Chain\|Cyber Kill Chain]]                                             | 6:48 PM - April 21, 2025   |
 > | [[cards/blue-team/threat-intelligence/Pyramid of Pain\|Pyramid of Pain]]                                               | 6:49 PM - April 21, 2025   |
-> | [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|IP and Domain Threat Intel]]                         | 6:51 PM - October 07, 2025 |
+> | [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|IP and Domain Threat Intel]]                         | 7:40 PM - October 08, 2025 |
 > 
 { .block-language-dataview}
 
@@ -80,6 +80,7 @@ See challenges [[atlas/blue-team#Challenges\|here]].
 > | [[cards/blue-team/network-security/Intrusion Detection and Prevention System\|Intrusion Detection and Prevention System]]                               | 6:44 PM - April 21, 2025   |
 > | [[cards/blue-team/network-security/Snort IPS mode - why the need for two network interface?\|Snort IPS mode - why the need for two network interface?]] | 7:19 PM - January 18, 2025 |
 > | [[cards/blue-team/network-security/Wireshark\|Wireshark]]                                                                                               | 6:45 PM - April 21, 2025   |
+> | [[cards/blue-team/network-security/Network Discovery Detection\|Network Discovery Detection]]                                                           | 7:36 PM - October 09, 2025 |
 > 
 { .block-language-dataview}
 
