@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/active-directory/lightweight-directory-access-protocol/","tags":["windows/ad"]}
 ---
 
-~ [[atlas/active-directory\|active-directory]] || ~ [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]
+~ [[cards/active-directory/active-directory\|active-directory]] || ~ [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]
 ### Introduction 
 ---
 A mechanism that enables accessing and managing directory data such users, computers, group, and any network accessible devices, it is used in any directory service such as Active Directory.

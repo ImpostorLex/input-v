@@ -11,7 +11,7 @@ See challenges [[atlas/blue-team#Challenges\|here]].
 > [!danger]+ quick start | one liners, small scripts, t
 > - [[cards/blue-team/phishing/Email Analysis\|Email Analysis]]
 > - [[cards/blue-team/endpoint-security/Endpoint Security\|Endpoint Security]]
->- [[cards/blue-team/IP and Domain Threat Intel Ref\|Enriching IP and Domain Threat Intelligence]]
+>- [[cards/blue-team/Ref IP and Domain Threat\|Enriching IP and Domain Threat Intelligence]]
 > - [[cards/blue-team/threat-intelligence/Threat Intelligence\|Threat Intelligence]]
 > - [[cards/blue-team/threat-hunting/Threat Hunting\|Threat Hunting]]
 > - [[cards/red-team/Living off the Land#File Operations\|Living off the Land (red-team)]] - have a look here for some additional detection/threat hunting ideas
@@ -67,7 +67,7 @@ See challenges [[atlas/blue-team#Challenges\|here]].
 > | [[cards/blue-team/threat-intelligence/Tactics, Techniques, Procedures\|Tactics, Techniques, Procedures]]               | 7:20 PM - April 21, 2025   |
 > | [[cards/blue-team/threat-intelligence/Cyber Kill Chain\|Cyber Kill Chain]]                                             | 6:48 PM - April 21, 2025   |
 > | [[cards/blue-team/threat-intelligence/Pyramid of Pain\|Pyramid of Pain]]                                               | 6:49 PM - April 21, 2025   |
-> | [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|IP and Domain Threat Intel]]                         | 7:40 PM - October 08, 2025 |
+> | [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|IP and Domain Threat Intel]]                         | 6:57 PM - October 12, 2025 |
 > 
 { .block-language-dataview}
 

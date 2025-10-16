@@ -348,7 +348,7 @@ I did not do the last task intentionally.
 - Enforce SMB Signing - By enforcing SMB signing, SMB relay attacks are not possible.
 - Follow the principle of least privileges - In most cases, an attacker will be able to recover a set of AD credentials. By following the principle of least privilege, especially for credentials used for services, the risk associated with these credentials being compromised can be significantly reduced.
 
-Now that we have breached active Directory: next step is to perform [[Enumerating Active Directory\|enumeration of Active Directory]] to gain a better understanding of the domain structure and identify potential misconfigurations that can be exploited.
+Now that we have breached active Directory: next step is to perform [[cards/red-team/Enumerating Active Directory (Authenticated Enumeration)\|enumeration of Active Directory]] to gain a better understanding of the domain structure and identify potential misconfigurations that can be exploited.
 ### Questions and Problems
 ---
 ## Conclusion

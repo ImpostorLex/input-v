@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/active-directory/group-policy-objects/","tags":["windows/ad"]}
 ---
 
-[[atlas/active-directory\|active-directory]]
+[[cards/active-directory/active-directory\|active-directory]]
 ### Introduction 
 ---
 A container that holds _Group Policy_ which enforces specific settings or policies, the Group Policy Object then can be applied to users, computers, organizational units (OUs), and even the domain itself.

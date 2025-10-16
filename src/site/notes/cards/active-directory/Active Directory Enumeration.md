@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/active-directory/active-directory-enumeration/","tags":["red-team/ad"]}
 ---
 
-[[atlas/active-directory\|active-directory]]
+[[cards/active-directory/active-directory\|active-directory]]
 ### Introduction
 ---
 During internal penetration test we are often given a Virtual Private Network access to the target network without user credentials this means we need to gather information about the domain: users, groups, computers, and policies that will serve us our attack paths.
@@ -24,7 +24,7 @@ The topology of the environment:
 
 ### Prerequisites
 ---
-- [[atlas/active-directory\|active-directory]]
+- [[cards/active-directory/active-directory\|active-directory]]
 - Linux fundamentals
 - Computer networking.
 ## Mapping the Network
