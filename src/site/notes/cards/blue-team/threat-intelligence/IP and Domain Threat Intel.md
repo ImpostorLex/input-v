@@ -17,7 +17,7 @@ For this demonstration:
 - 69[.]197[.]185[.]26
 - 85[.]188[.]1[.]133
 
-Quick reference here for [[cards/blue-team/Ref IP and Domain Threat\|analyis]].
+Quick reference here for [[cards/blue-team/threat-intelligence/Ref IP and Domain Threat\|analyis]].
 #### Key Topics
 ---
 - [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel#Prerequisite\|Covers DNS basics, ASNs, and how networks are structured — foundational knowledge before enrichment.]]

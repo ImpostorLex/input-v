@@ -75,10 +75,10 @@
 >  | File                                                                                                                                     |
 > | ---------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[cards/red-team/Reconnaissance - Red Team\|Reconnaissance - Red Team]]                                                               |
-> | [[cards/red-team/Enumerating Active Directory (Authenticated Enumeration)\|Enumerating Active Directory (Authenticated Enumeration)]] |
 > | [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]                                                             |
-> | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                                                 |
 > | [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]]                     |
+> | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                                                 |
+> | [[cards/red-team/Enumerating Active Directory (Authenticated Enumeration)\|Enumerating Active Directory (Authenticated Enumeration)]] |
 > 
 { .block-language-dataview}
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/enumerating-active-directory-authenticated-enumeration/","tags":["red-team/ad"]}
 ---
 
-~ [[atlas/red-team\|red-team]] | ~ [[cards/active-directory/active-directory\|active-directory]]
+~ [[atlas/red-team\|red-team]] | ~ [[cards/active-directory/windows active directory\|windows active directory]]
 ### Introduction 
 ---
 Once we successfully obtained our first set of AD credentials; you can start enumerating various details about the AD setup and structure with authenticated access, even super low-privileged access.
@@ -38,7 +38,7 @@ Once we successfully obtained our first set of AD credentials; you can start enu
 
 ## Prerequisites
 
-- [[cards/active-directory/active-directory\|active-directory]] | [[cards/active-directory/Active Directory\|Active Directory]]
+- [[cards/active-directory/windows active directory\|windows active directory]] | [[cards/active-directory/Active Directory\|Active Directory]]
 - Need to know: [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]
 
 ## Credential Injection

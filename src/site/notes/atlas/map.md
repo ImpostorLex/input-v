@@ -9,7 +9,6 @@
 > [!map]+ My maps
 >  | Map                                                                                           |
 > | --------------------------------------------------------------------------------------------- |
-> | [[cards/active-directory/active-directory\|active-directory]]                              |
 > | [[atlas/windows\|windows]]                                                                 |
 > | [[atlas/web\|web]]                                                                         |
 > | [[atlas/red-team\|red-team]]                                                               |
@@ -19,6 +18,7 @@
 > | [[atlas/linux\|linux]]                                                                     |
 > | [[atlas/dots\|dots]]                                                                       |
 > | [[atlas/concepts\|concepts that is not directly aligned with my field but can be applied]] |
+> | [[cards/active-directory/windows active directory\|windows active directory]]              |
 > | [[atlas/blue-team\|blue-team]]                                                             |
 > 
 { .block-language-dataview}
