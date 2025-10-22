@@ -55,20 +55,20 @@ See challenges [[atlas/blue-team#Challenges\|here]].
 { .block-language-dataview}
 
 > [!map]- Threat Intelligence
->  | File                                                                                                                      | Last Modified              |
-> | ------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-> | [[cards/blue-team/threat-intelligence/Threat Intelligence\|Threat Intelligence]]                                       | 6:49 PM - April 21, 2025   |
-> | [[cards/blue-team/threat-intelligence/Diamond Model of Intrusion Analysis\|Diamond Model of Intrusion Analysis]]       | 6:49 PM - April 21, 2025   |
-> | [[cards/blue-team/threat-intelligence/Malware Information Sharing Platform\|Malware Information Sharing Platform]]     | 5:45 PM - April 10, 2025   |
-> | [[cards/blue-team/threat-intelligence/Intel-Driven Adversary Emulation Plans\|Intel-Driven Adversary Emulation Plans]] | 11:37 AM - April 17, 2025  |
-> | [[cards/blue-team/threat-intelligence/MITRE ATT&CK\|MITRE ATT&CK]]                                                     | 4:17 PM - August 20, 2025  |
-> | [[cards/blue-team/threat-intelligence/Threat Intelligence for SOC\|Threat Intelligence for SOC]]                       | 11:04 AM - April 18, 2025  |
-> | [[cards/blue-team/threat-intelligence/YARA\|YARA]]                                                                     | 6:50 PM - April 21, 2025   |
-> | [[cards/blue-team/threat-intelligence/Tactics, Techniques, Procedures\|Tactics, Techniques, Procedures]]               | 7:20 PM - April 21, 2025   |
-> | [[cards/blue-team/threat-intelligence/Cyber Kill Chain\|Cyber Kill Chain]]                                             | 6:48 PM - April 21, 2025   |
-> | [[cards/blue-team/threat-intelligence/Pyramid of Pain\|Pyramid of Pain]]                                               | 6:49 PM - April 21, 2025   |
-> | [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|IP and Domain Threat Intel]]                         | 6:57 PM - October 12, 2025 |
-> | [[cards/blue-team/threat-intelligence/Ref IP and Domain Threat\|Ref IP and Domain Threat]]                             | 6:58 PM - October 12, 2025 |
+>  | File                                                                                                                      | Last Modified               |
+> | ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+> | [[cards/blue-team/threat-intelligence/Threat Intelligence\|Threat Intelligence]]                                       | 6:49 PM - April 21, 2025    |
+> | [[cards/blue-team/threat-intelligence/Diamond Model of Intrusion Analysis\|Diamond Model of Intrusion Analysis]]       | 6:49 PM - April 21, 2025    |
+> | [[cards/blue-team/threat-intelligence/Malware Information Sharing Platform\|Malware Information Sharing Platform]]     | 5:45 PM - April 10, 2025    |
+> | [[cards/blue-team/threat-intelligence/Intel-Driven Adversary Emulation Plans\|Intel-Driven Adversary Emulation Plans]] | 11:37 AM - April 17, 2025   |
+> | [[cards/blue-team/threat-intelligence/MITRE ATT&CK\|MITRE ATT&CK]]                                                     | 4:17 PM - August 20, 2025   |
+> | [[cards/blue-team/threat-intelligence/Threat Intelligence for SOC\|Threat Intelligence for SOC]]                       | 11:04 AM - April 18, 2025   |
+> | [[cards/blue-team/threat-intelligence/YARA\|YARA]]                                                                     | 6:50 PM - April 21, 2025    |
+> | [[cards/blue-team/threat-intelligence/Tactics, Techniques, Procedures\|Tactics, Techniques, Procedures]]               | 7:20 PM - April 21, 2025    |
+> | [[cards/blue-team/threat-intelligence/Cyber Kill Chain\|Cyber Kill Chain]]                                             | 6:48 PM - April 21, 2025    |
+> | [[cards/blue-team/threat-intelligence/Pyramid of Pain\|Pyramid of Pain]]                                               | 6:49 PM - April 21, 2025    |
+> | [[cards/blue-team/threat-intelligence/IP and Domain Threat Intel\|IP and Domain Threat Intel]]                         | 6:57 PM - October 12, 2025  |
+> | [[cards/blue-team/threat-intelligence/Ref IP and Domain Threat\|Ref IP and Domain Threat]]                             | 10:40 AM - October 22, 2025 |
 > 
 { .block-language-dataview}
 
