@@ -5,7 +5,7 @@
 [[atlas/blue-team\|blue-team]]
 ### Introduction
 ---
-A forensic image that can copy bit by bit of a storage device as well as producing a hash for integrity.
+A forensic imager that can copy bit by bit of a storage device as well as producing a hash for integrity.
 
 - Some useful introduction notes [here.](obsidian://open?vault=notes&file=Atlas%2FCyber%20Defense%2F2023-12-09)
 ## Demo
@@ -42,5 +42,5 @@ Ideally the filename should be device descriptive including the hostname:
 After creation of the `.mem` file then **calculate the hash**, as calculating the hash before the image taken is not ideal as it constantly changes then **document** the following.
 
 
-**Organize and refine notes after each session including adding meta-tags**
+
 

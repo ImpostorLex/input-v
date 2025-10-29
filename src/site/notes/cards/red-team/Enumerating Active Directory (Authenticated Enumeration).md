@@ -385,7 +385,7 @@ Clicking the numbers beside each information:
 
 The icons are called nodes, and the lines are called edges and taking a look at the **"Analysis** tab these are the queries made by the Bloodhound developers:
 
-![Enumerating Active Directory-19.png](/img/user/red/Enumerating%20Active%20Directory-19.png)
+![[Enumerating Active Directory-19.png\|Enumerating Active Directory-19.png]]
 
 There is an AD user account with the username of **T0_TINUS.GREEN**, that is a member of the group **Tier 0 ADMINS**. But, this group is a nested group into the **DOMAIN ADMINS** group, meaning all users that are part of the **Tier 0 ADMINS** group are effectively DAs.
 

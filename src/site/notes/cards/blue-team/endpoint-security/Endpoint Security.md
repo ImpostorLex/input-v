@@ -30,7 +30,7 @@
 ---
 - **Antivirus**
 	- Scans files and activities based on patterns and signatures
-- **Endpoint Detection and Response**
+- **Endpoint Detection and Response** ~ [[cards/blue-team/endpoint-security/LimaCharlie\|LimaCharlie]]
 	- Real-time monitoring and response - agent based deployment
 	- Monitor process, files, registry, and network activity.
 - **Extended Detection and Response (XDR)**
