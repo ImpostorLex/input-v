@@ -7,19 +7,18 @@
 **A map can exist inside a map.**
 
 > [!map]+ My maps
->  | Map                                                                                           |
-> | --------------------------------------------------------------------------------------------- |
-> | [[atlas/windows\|windows]]                                                                 |
-> | [[atlas/web\|web]]                                                                         |
-> | [[atlas/red-team\|red-team]]                                                               |
-> | [[atlas/post-compromise\|post-compromise]]                                                 |
-> | [[atlas/networking\|networking]]                                                           |
-> | [[atlas/malware\|malware analysis - can also be used for red teaming]]                     |
-> | [[atlas/linux\|linux]]                                                                     |
-> | [[atlas/dots\|dots]]                                                                       |
-> | [[atlas/concepts\|concepts that is not directly aligned with my field but can be applied]] |
-> | [[cards/active-directory/windows active directory\|windows active directory]]              |
-> | [[atlas/blue-team\|blue-team]]                                                             |
+>  | Map                                                                      |
+> | ------------------------------------------------------------------------ |
+> | [[cards/active-directory/windows active directory\|Active Directory]] |
+> | [[atlas/windows\|Windows OS]]                                         |
+> | [[atlas/web\|Web]]                                                    |
+> | [[atlas/red-team\|Red Teaming]]                                       |
+> | [[atlas/networking\|Computer Networking]]                             |
+> | [[atlas/malware\|Malware Analysis]]                                   |
+> | [[atlas/linux\|Linux OS]]                                             |
+> | [[atlas/dots\|Dots: no category notes]]                               |
+> | [[atlas/concepts\|Cool Concepts]]                                     |
+> | [[atlas/blue-team\|Blue Teaming]]                                     |
 > 
 { .block-language-dataview}
 
@@ -30,6 +29,8 @@
 > | [[cards/red-team/Signature Evasion\|Signature Evasion]]                           | requires more knowledge about below topic but for now it is enough since the purpose is mal dev. |
 > 
 { .block-language-dataview}
+
+
 
 
 

@@ -10,8 +10,8 @@
 | File                                                                         | dg-publish |
 | ---------------------------------------------------------------------------- | ---------- |
 | [[cards/networking/Remote Procedure Call\|Remote Procedure Call]]         | true       |
-| [[cards/networking/The threeway handshake\|The threeway handshake]]       | true       |
 | [[cards/networking/TLS handshake\|TLS handshake]]                         | true       |
+| [[cards/networking/The threeway handshake\|The threeway handshake]]       | true       |
 | [[cards/networking/Transport Layer Security\|Transport Layer Security]]   | \-         |
 | [[cards/networking/Virtualization Networking\|Virtualization Networking]] | true       |
 
