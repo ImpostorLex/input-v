@@ -7,8 +7,9 @@
 **A map can exist inside a map.**
 
 **Note:** only use tags if the list is overwhelming.
-| File                                                                                       | dg-publish |
-| ------------------------------------------------------------------------------------------ | ---------- |
-| [[cards/concepts/Digital Oceans Writing Guidelines\|Digital Oceans Writing Guidelines]] | true       |
+| File                                                                                                               | dg-publish |
+| ------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [[cards/concepts/Digital Oceans Writing Guidelines\|Digital Oceans Writing Guidelines]]                         | true       |
+| [[cards/concepts/Structure, Knowledge, Reference, and Playbook\|Structure, Knowledge, Reference, and Playbook]] | \-         |
 
 { .block-language-dataview}

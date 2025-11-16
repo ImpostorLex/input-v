@@ -377,11 +377,11 @@ Upload to Bloodhound by drag and dropping.
 
 **Searching for a user:**
 
-![Enumerating Active Directory-16.png](/img/user/cards/red-team/Enumerating%20Active%20Directory-16.png)
+![Enumerating Active Directory-16.png](/img/user/cards/red-team/images/Enumerating%20Active%20Directory-16.png)
 
 Clicking the numbers beside each information:
 
-![Enumerating Active Directory-17.png|500](/img/user/cards/red-team/Enumerating%20Active%20Directory-17.png)
+![Enumerating Active Directory-17.png|500](/img/user/cards/red-team/images/Enumerating%20Active%20Directory-17.png)
 
 The icons are called nodes, and the lines are called edges and taking a look at the **"Analysis** tab these are the queries made by the Bloodhound developers:
 

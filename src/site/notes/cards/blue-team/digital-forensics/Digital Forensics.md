@@ -49,6 +49,7 @@ The investigation process depends on the situation handed, different situation m
 - Maintain evidence integrity.
 - Data discovery
 	- Restore deleted or hidden data.
+- [[cards/linux/Linux Logging for SOC\|Linux Logging for SOC]] - Examines key Linux log sources and auditd events to trace user activity, authentication attempts, and runtime process execution.
 #### Analysis
 ---
 - How does the evidence supports or refutes the hypothesis?

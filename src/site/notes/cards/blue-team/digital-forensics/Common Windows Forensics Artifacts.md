@@ -26,8 +26,8 @@ These are common sources of evidence that can be found on a Windows system.
 - See also [[cards/windows/Windows Registry#Autoruns Forensics (Persistence)\|Autoruns persistence]]
 ## System (Investigation)
 ---
-
 **Operating system** information can be found on, including the **install date (EPOCH time)**, build version and more:
+
 ```C
 SOFTWARE\Microsoft\Windows NT\CurrentVersion
 ```
@@ -52,7 +52,7 @@ SYSTEM\CurrentControlSet\Control\Session Manager\Environment
 SYSTEM\CurrentControlSet\Control\ComputerName\ComputerName
 ```
 
-**Timezon information**
+**Timezone information:**
 Knowledge of the timezone is important when we are merging two or more data sources.
 ```C
 SYSTEM\CurrentControlSet\Control\TimeZoneInformation
@@ -161,7 +161,7 @@ reg query "HKCU\Software\Microsoft\Windows\Shell\Bags"
 NTUSER.DAT\Software\Microsoft\Windows\Currentversion\Explorer\UserAssist\{GUID}\Count
 ```
 
-**Viewing Autoruns and other persistence mechanism**
+**Viewing Autoruns and other persistence mechanism:**
 In this part we need the user specific settings (`NTUSER.DAT`) and the system wide configuration in this case HKLM's `Software` registry hive, so load them both.
 
 ```C
@@ -197,3 +197,13 @@ SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache
 
 - **Note:** remember the subkey of interest in the general view then view it using specific folder for each subkey for more information.
 	- The image path of the binary can be found on the `Action` row and then viewing the hexadecimal to ASCII.
+
+**Command History (PowerShell):**
+
+```C
+C:\Users\matthew.collins\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine
+```
+
+- Stores **PowerShell command history** for each user.
+- Similar to Linux's `.bash_history`
+- File persists after reboot unless cleared manually.

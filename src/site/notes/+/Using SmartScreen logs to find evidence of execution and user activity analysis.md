@@ -39,18 +39,18 @@ First, open cmd in administrator mode:
 wevtutil sl Microsoft-Windows-SmartScreen/Debug /e:true
 ```
 
-![Using SmartScreen logs to find evidence of execution and user activity analysis.png](/img/user/+/Using%20SmartScreen%20logs%20to%20find%20evidence%20of%20execution%20and%20user%20activity%20analysis.png)
+![Using SmartScreen logs to find evidence of execution and user activity analysis.png](/img/user/+/images/Using%20SmartScreen%20logs%20to%20find%20evidence%20of%20execution%20and%20user%20activity%20analysis.png)
 
 Open Event Viewer, then go to: **Applications and Services Logs -> Microsoft -> Windows -> Smartscreen-> Debug**
 
-![Using SmartScreen logs to find evidence of execution and user activity analysis-1.png](/img/user/+/Using%20SmartScreen%20logs%20to%20find%20evidence%20of%20execution%20and%20user%20activity%20analysis-1.png)
+![Using SmartScreen logs to find evidence of execution and user activity analysis-1.png](/img/user/+/images/Using%20SmartScreen%20logs%20to%20find%20evidence%20of%20execution%20and%20user%20activity%20analysis-1.png)
 Open `cmd.exe` to create a log:
 
 
 
 If it does not work try increasing the maximum log size, by right-clicking and choosing properties:
 
-![Using SmartScreen logs to find evidence of execution and user activity analysis-2.png](/img/user/+/Using%20SmartScreen%20logs%20to%20find%20evidence%20of%20execution%20and%20user%20activity%20analysis-2.png)
+![Using SmartScreen logs to find evidence of execution and user activity analysis-2.png](/img/user/+/images/Using%20SmartScreen%20logs%20to%20find%20evidence%20of%20execution%20and%20user%20activity%20analysis-2.png)
 
 
 

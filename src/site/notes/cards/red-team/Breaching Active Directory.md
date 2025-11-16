@@ -38,7 +38,7 @@ sed -i '1s|^|nameserver $THMDCIP\n|' /etc/resolv-dnsmasq
 
 Replace `$THMDCIP` with the actual IP of the active directory and the topology:
 
-![Breaching Active Directory-12.png](/img/user/cards/red-team/Breaching%20Active%20Directory-12.png)
+![Breaching Active Directory-12.png](/img/user/cards/red-team/images/Breaching%20Active%20Directory-12.png)
 
 
 
@@ -270,7 +270,7 @@ Large organizations need tools to deploy and manage their infrastructure of the 
 ---
 Large organizations use PXE boot to allow new devices that are connected to the network to load and install the OS directly over a network connection. MDT can be used to create, manage, and host PXE boot images. PXE boot is usually integrated with DHCP, which means that if DHCP assigns an IP lease, the host is allowed to request the PXE boot image and start the network OS installation process
 
-![Breaching Active Directory-13.png](/img/user/cards/red-team/Breaching%20Active%20Directory-13.png)
+![Breaching Active Directory-13.png](/img/user/cards/red-team/images/Breaching%20Active%20Directory-13.png)
 
 Once the process is confirmed, the client will use a TFTP connection to download the PXE boot image, there are two exploit against PXE boot image:
 
@@ -283,7 +283,7 @@ In this step: the goal is to scrape all possible AD credentials but we need two 
 - The IP address of the MDT server.
 - The names of the BCD files. These files store the information relevant to PXE boots for the different types of architecture.
 
-![Breaching Active Directory-11.png](/img/user/cards/red-team/Breaching%20Active%20Directory-11.png)
+![Breaching Active Directory-11.png](/img/user/cards/red-team/images/Breaching%20Active%20Directory-11.png)
 
 Normally, you would use TFTP to request each of these BCD files and enumerate the configuration for all of them. But in this case focus on the 64-bit machine `x64{GUID}.bcd` (since this is a laboratory and for learning purposes).
 
@@ -314,7 +314,7 @@ $BCDFile = "conf.bcd"
 Get-WimFile -bcdFile $BCDFile
 ```
 
-![Breaching Active Directory-14.png](/img/user/cards/red-team/Breaching%20Active%20Directory-14.png)
+![Breaching Active Directory-14.png](/img/user/cards/red-team/images/Breaching%20Active%20Directory-14.png)
 
 `Get-WimFile` will parse `conf.bcd` and print the `<PXE Boot Image Location>` (the path to the `.wim`). Copy that path exactly for the next TFTP step:
 
@@ -335,7 +335,7 @@ Open pxeboot.wim
 
 Output:
 
-![Breaching Active Directory-15.png](/img/user/cards/red-team/Breaching%20Active%20Directory-15.png)
+![Breaching Active Directory-15.png](/img/user/cards/red-team/images/Breaching%20Active%20Directory-15.png)
 
 I did not do the last task intentionally.
 

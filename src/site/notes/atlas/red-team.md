@@ -9,9 +9,14 @@
 **Note:** only use tags if the list is overwhelming.
 
 > [!info]- TAGLESS RED TEAM NOTES
->  | Title                                                                                                      | Last Modified           |
-> | ---------------------------------------------------------------------------------------------------------- | ----------------------- |
-> | [[cards/red-team/Tricking VirusTotal or any Scanning Agent\|Tricking VirusTotal or any Scanning Agent]] | 6:29 PM - June 06, 2025 |
+>  | Title                                                                                                                          | Last Modified               |
+> | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+> | [[cards/red-team/Port Forwarding\|TECH – T1090 Proxy / Port Forwarding & Pivoting]]                                         | 2:46 PM - November 16, 2025 |
+> | [[cards/red-team/Abusing User Behavior\|TECH – T1574.008 Hijack Execution Flow]]                                            | 2:45 PM - November 16, 2025 |
+> | [[cards/red-team/Use of Alternate Authentication Material\|TECH – T1550 Use of Alternate Authentication Material]]          | 2:37 PM - November 16, 2025 |
+> | [[cards/red-team/Moving Laterally using WMI\|TECH – T1047 Windows Management Instrumentation (WMI-Based Lateral Movement)]] | 2:35 PM - November 16, 2025 |
+> | [[cards/red-team/Spawning Process Remotely\|TECH – T1021 Remote Services]]                                                  | 2:32 PM - November 16, 2025 |
+> | [[cards/red-team/Tricking VirusTotal or any Scanning Agent\|Tricking VirusTotal or any Scanning Agent]]                     | 6:29 PM - June 06, 2025     |
 > 
 { .block-language-dataview}
 
@@ -71,15 +76,15 @@
 > 
 { .block-language-dataview}
 
-> [!warning]- ACTIVE DIRECTORY
->  | File                                                                                                                                     |
+ >[!warning]- ACTIVE DIRECTORY
+>  | Note                                                                                                                                     |
 > | ---------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[cards/red-team/Reconnaissance - Red Team\|Reconnaissance - Red Team]]                                                               |
-> | [[cards/red-team/Enumerating Active Directory (Authenticated Enumeration)\|Enumerating Active Directory (Authenticated Enumeration)]] |
-> | [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]                                                             |
 > | [[cards/active-directory/Active Directory Enumeration\|Active Directory Enumeration]]                                                 |
 > | [[cards/active-directory/Active Directory Authenticated Enumeration\|Active Directory Authenticated Enumeration]]                     |
-> | [[lateral movement and pivoting\|lateral movement and pivoting]]                                                                      |
+> | [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]                                                             |
+> | [[cards/red-team/Enumerating Active Directory (Authenticated Enumeration)\|Enumerating Active Directory (Authenticated Enumeration)]] |
+> | [[cards/red-team/lateral movement and pivoting\|TA0008 - Lateral Movement and Pivoting]]                                              |
 > 
 { .block-language-dataview}
 

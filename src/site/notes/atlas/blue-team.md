@@ -97,6 +97,7 @@
 > | [[cards/blue-team/digital-forensics/Digital Forensics\|Digital Forensics]]                                                                                             | \-     |
 > 
 { .block-language-dataview}
+> [[cards/linux/Linux Logging for SOC\|Linux Logging for SOC]] -- have a look for some common logs that is not usually ingested in SIEM to data noise and hard to parse
 
 > [!map]+ Incident Response
 >  | Title                                                                     | Topics |

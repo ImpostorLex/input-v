@@ -28,7 +28,7 @@ In this mode:
 
 - VM to VM is not possible because in this mode every VM is isolated
 - VM to host or any device in the LAN is possible as the host acts as the Internet where the virtual NAT translates the VM IP address into the host [[IP address\|IP address]] class
-- [[Port Forwarding\|Port Forwarding]] is required if devices from the physical LAN wants to access services from the VM.
+- [[cards/red-team/Port Forwarding\|Port Forwarding]] is required if devices from the physical LAN wants to access services from the VM.
 
 > [!question]- What will be the process if VM wants to access the Internet?
 > VM -> Virtual NAT -> host address -> NAT -> Internet

@@ -10,6 +10,7 @@
 | File                                                                    | dg-publish |
 | ----------------------------------------------------------------------- | ---------- |
 | [[cards/linux/Display Servers In Linux\|Display Servers In Linux]]   | true       |
+| [[cards/linux/Linux Logging for SOC\|Linux Logging for SOC]]         | true       |
 | [[cards/linux/Linux -  proc file system\|Linux -  proc file system]] | true       |
 
 { .block-language-dataview}
