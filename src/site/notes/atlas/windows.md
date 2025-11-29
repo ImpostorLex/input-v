@@ -20,8 +20,8 @@
 | [[cards/windows/Windows Internals\|Windows Internals]]                                       | true       |
 | [[cards/windows/Windows Registry\|Windows Registry]]                                         | true       |
 | [[cards/windows/hook\|hook]]                                                                 | true       |
-| [[cards/windows/windows users session\|windows users session]]                               | \-         |
 | [[cards/windows/syscall\|syscall]]                                                           | true       |
+| [[cards/windows/windows users session\|windows users session]]                               | \-         |
 
 { .block-language-dataview}
 
