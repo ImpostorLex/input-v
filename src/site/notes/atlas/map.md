@@ -9,16 +9,16 @@
 > [!map]+ My maps
 >  | Map                                                                      |
 > | ------------------------------------------------------------------------ |
-> | [[atlas/concepts\|Cool Concepts]]                                     |
+> | [[atlas/red-team\|Red Teaming]]                                       |
 > | [[atlas/windows\|Windows OS]]                                         |
 > | [[atlas/web\|Web]]                                                    |
 > | [[atlas/networking\|Computer Networking]]                             |
 > | [[atlas/malware\|Malware Analysis]]                                   |
 > | [[atlas/linux\|Linux OS]]                                             |
 > | [[atlas/dots\|Dots: no category notes]]                               |
+> | [[atlas/concepts\|Cool Concepts]]                                     |
 > | [[atlas/blue-team\|Blue Teaming]]                                     |
 > | [[cards/active-directory/windows active directory\|Active Directory]] |
-> | [[atlas/red-team\|Red Teaming]]                                       |
 > 
 { .block-language-dataview}
 
@@ -31,7 +31,7 @@
 { .block-language-dataview}
 
 
-
+https://www.reddit.com/r/crystalofatlan/comments/1n6fv8r/new_endgame_player_need_help_on_what_to_do_now/
 
 
 

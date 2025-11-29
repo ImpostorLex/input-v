@@ -31,15 +31,6 @@ Windows Management Instrumentation allows administrators to perform standard man
     
 5. Monitor for session results (process exit codes, method return values) since WMI does not provide interactive output.
     
-
-**Placeholders for hands-on commands:**
-
-- `{TARGET}`
-    
-- `{USER}`
-    
-- `{PAYLOAD}`
-
 ### Connecting to WMI From Powershell
 ---
 You need to create a `PSCredential` object with your user and password:

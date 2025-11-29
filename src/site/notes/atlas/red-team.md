@@ -9,14 +9,17 @@
 **Note:** only use tags if the list is overwhelming.
 
 > [!info]- TAGLESS RED TEAM NOTES
->  | Title                                                                                                                          | Last Modified               |
-> | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-> | [[cards/red-team/Port Forwarding\|TECH – T1090 Proxy / Port Forwarding & Pivoting]]                                         | 2:46 PM - November 16, 2025 |
-> | [[cards/red-team/Abusing User Behavior\|TECH – T1574.008 Hijack Execution Flow]]                                            | 2:45 PM - November 16, 2025 |
-> | [[cards/red-team/Use of Alternate Authentication Material\|TECH – T1550 Use of Alternate Authentication Material]]          | 2:37 PM - November 16, 2025 |
-> | [[cards/red-team/Moving Laterally using WMI\|TECH – T1047 Windows Management Instrumentation (WMI-Based Lateral Movement)]] | 2:35 PM - November 16, 2025 |
-> | [[cards/red-team/Spawning Process Remotely\|TECH – T1021 Remote Services]]                                                  | 2:32 PM - November 16, 2025 |
-> | [[cards/red-team/Tricking VirusTotal or any Scanning Agent\|Tricking VirusTotal or any Scanning Agent]]                     | 6:29 PM - June 06, 2025     |
+>  | Title                                                                                                                          | Last Modified                |
+> | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+> | [[cards/red-team/Exploiting Automated Relays\|TECH - T1557.01  Exploiting Automated Relays]]                                | 8:02 PM - November 28, 2025  |
+> | [[cards/red-team/Exploiting Kerberos Delegation\|TECH - T1550.003 Exploiting Kerberos Delegation]]                          | 6:49 PM - November 28, 2025  |
+> | [[cards/red-team/Exploiting Permission Delegation\|TECH - T1098 Exploiting Permission Delegation]]                          | 10:50 AM - November 20, 2025 |
+> | [[cards/red-team/Port Forwarding\|TECH – T1090 Proxy / Port Forwarding & Pivoting]]                                         | 2:46 PM - November 16, 2025  |
+> | [[cards/red-team/Abusing User Behavior\|TECH – T1574.008 Hijack Execution Flow]]                                            | 2:45 PM - November 16, 2025  |
+> | [[cards/red-team/Use of Alternate Authentication Material\|TECH – T1550 Use of Alternate Authentication Material]]          | 7:14 PM - November 28, 2025  |
+> | [[cards/red-team/Moving Laterally using WMI\|TECH – T1047 Windows Management Instrumentation (WMI-Based Lateral Movement)]] | 3:49 PM - November 16, 2025  |
+> | [[cards/red-team/Spawning Process Remotely\|TECH – T1021 Remote Services]]                                                  | 2:32 PM - November 16, 2025  |
+> | [[cards/red-team/Tricking VirusTotal or any Scanning Agent\|Tricking VirusTotal or any Scanning Agent]]                     | 6:29 PM - June 06, 2025      |
 > 
 { .block-language-dataview}
 
@@ -70,9 +73,10 @@
 { .block-language-dataview}
 
 > [!warning]- RED TEAM FUNDAMENTALS
->  | Title                                           | Last Modified           |
-> | ----------------------------------------------- | ----------------------- |
-> | [[cards/red-team/OPSEC\|Operation Security]] | 7:05 PM - July 12, 2025 |
+>  | Title                                                        | Last Modified               |
+> | ------------------------------------------------------------ | --------------------------- |
+> | [[cards/red-team/OPSEC\|Operation Security]]              | 7:05 PM - July 12, 2025     |
+> | [[cards/red-team/Input Manipulation\|Input Manipulation]] | 6:59 PM - November 26, 2025 |
 > 
 { .block-language-dataview}
 
@@ -85,6 +89,7 @@
 > | [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]                                                             |
 > | [[cards/red-team/Enumerating Active Directory (Authenticated Enumeration)\|Enumerating Active Directory (Authenticated Enumeration)]] |
 > | [[cards/red-team/lateral movement and pivoting\|TA0008 - Lateral Movement and Pivoting]]                                              |
+> | [[Exploiting Active Directory\|Exploiting Active Directory]]                                                                          |
 > 
 { .block-language-dataview}
 

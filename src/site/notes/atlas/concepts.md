@@ -10,6 +10,7 @@
 | File                                                                                                               | dg-publish |
 | ------------------------------------------------------------------------------------------------------------------ | ---------- |
 | [[cards/concepts/Digital Oceans Writing Guidelines\|Digital Oceans Writing Guidelines]]                         | true       |
+| [[cards/concepts/My full note-taking process\|My full note-taking process]]                                     | \-         |
 | [[cards/concepts/Structure, Knowledge, Reference, and Playbook\|Structure, Knowledge, Reference, and Playbook]] | \-         |
 
 { .block-language-dataview}

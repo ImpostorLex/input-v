@@ -6,7 +6,9 @@
 ## Summary
 ---
 **What it is:** Technique for abusing non-password authentication material (hashes, Kerberos tickets, and encryption keys) to authenticate as another user without knowing their plaintext password.  
+
 **Scope:** Covers Pass-the-Hash, Pass-the-Ticket, and Overpass-the-Hash/Pass-the-Key at a conceptual level; excludes cracking, exploit code, and tooling syntax.  
+
 **Key Topics:** NTLM authentication, Kerberos tickets, credential material, LSASS memory, lateral movement, token injection, TGT/TGS handling
 ## How it works
 ---
