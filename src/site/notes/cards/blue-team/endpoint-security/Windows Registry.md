@@ -78,6 +78,7 @@ sc qc "servicename"
 	- Green verified.
 	- Yellow highlight shows the program has unknown publisher or unsigned.
 	- Red highlight shows a potential security risks.
+
 ### Baselining from scratch
 ---
 1. [https://github.com/p0w3rsh3ll/AutoRuns](https://github.com/p0w3rsh3ll/AutoRuns) (Commands are in the docs or with `Get-Help <function_name>`)

@@ -15,5 +15,6 @@
 | [[cards/dots/Passkeys\|Passkeys]]                                               | true       |
 | [[cards/dots/Pointers in C\|Pointers in C]]                                     | true       |
 | [[cards/dots/Public Key Infrastructure (PKI)\|Public Key Infrastructure (PKI)]] | true       |
+| [[cards/dots/rules\|rules]]                                                     | true       |
 
 { .block-language-dataview}

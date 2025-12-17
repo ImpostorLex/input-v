@@ -31,6 +31,7 @@
 > | [[cards/blue-team/endpoint-security/Windows Event Logs\|Windows Event Logs]]               | \-                          |
 > 
 { .block-language-dataview}
+> [[cards/active-directory/Group Policy Objects#Sample Investigation\|Group Policy Objects#Sample Investigation]] has investigation how to investigate GPOs
 
 > [!map]- Phishing Analysis
 >

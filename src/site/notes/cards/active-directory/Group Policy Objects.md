@@ -5,9 +5,20 @@
 [[cards/active-directory/windows active directory\|windows active directory]]
 ### Introduction 
 ---
-A container that holds _Group Policy_ which enforces specific settings or policies, the Group Policy Object then can be applied to users, computers, organizational units (OUs), and even the domain itself.
+A virtual collection of policy settings that is stored in the SYSVOL directory to be replicated to domain-joined machines. Each GPOs is uniquely named called GUID.
 
-For an attacker this is a great way of spreading malicious scripts to multiple devices.
+Each Windows computer has a local policy configuration such as:
+
+- Application configuration for services such as the Firewall, Anti-Virus, and Applocker.  
+- Local Group membership such as the Administrator or Remote Desktop Users groups.
+- Startup configuration such as scripts that should be executed.
+- And more.
+
+##### Group Policy Management
+---
+It is used to manage group policy of thousands of workstations in an organization in a Active Directory environment.
+
+Domain-joined computers would then pull all policies from SYSVOL periodically and apply the relevant ones. By default, policies are replicated every 15 minutes through the gpupdate application.
 ## Sample Usage
 Enforcing password policy:
 

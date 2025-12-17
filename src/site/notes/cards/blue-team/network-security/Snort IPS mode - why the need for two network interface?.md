@@ -23,3 +23,15 @@ This setup allows Snort to inspect every packet passing between your PC and the 
 **Analogy**
 - **Without bridging**: There’s no gate between your router and PC. The security guard (Snort) has no traffic to inspect.
 - **With bridging**: A gate is set up, and the security guard (Snort) stands there, checking every packet (person) trying to pass.
+
+### DC Sync
+---
+It is not recommended to have a single DC for multiple domains as it would delay authentication services. So multiple DCs exists. If you want to authenticate using the same credentials in two different offices.
+
+You do **domain replication**, each domain controller runs a process called the Knowledge Consistency Checker (KCC), It generates a replication topology for the AD forest and automatically connects to other domain controllers through Remote Procedure Call (RPC) to synchronise information.
+
+ This includes updated information such as the user's new password and new objects such as when a new user is created.
+
+This process of replication is called **DC Synchronisation**. Those who are part of the Domain Admins group can also do DC synchronisation for legitimate purposes such as creating a new domain controller.
+
+%Make it a dedicated note.%

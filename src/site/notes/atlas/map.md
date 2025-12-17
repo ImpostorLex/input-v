@@ -33,6 +33,9 @@
 
 https://www.reddit.com/r/crystalofatlan/comments/1n6fv8r/new_endgame_player_need_help_on_what_to_do_now/
 
-
+- **Severity:** How bad?
+- **Time:** When?
+- **Context:** Where in the attack lifecycle?
+- **Impact:** Who or what is affected?
 
 

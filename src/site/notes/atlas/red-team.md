@@ -11,6 +11,13 @@
 > [!info]- TAGLESS RED TEAM NOTES
 >  | Title                                                                                                                          | Last Modified                |
 > | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+> | [[cards/red-team/Persistence through SID History\|TECH - T1134.005 Access Token Manipulation: SID-History Injection]]       | 10:05 AM - December 17, 2025 |
+> | [[cards/red-team/Persistence through Tickets\|TECH - T1558.001 Golden Ticket & T1558.002 Silver Ticket]]                    | 10:07 AM - December 17, 2025 |
+> | [[cards/red-team/Persistence through Credentials\|TECH - T1003.006 OS Credential Dumping: DCSync]]                          | 8:22 PM - December 16, 2025  |
+> | [[cards/red-team/Persistence through Group Membership\|TECH - T1098.001 Account Manipulation: Additional AD Group]]         | 10:13 AM - December 17, 2025 |
+> | [[cards/red-team/Exploiting Domain Trusts\|TECH - T1558..001 Exploiting Domain Trusts]]                                     | 8:36 PM - December 13, 2025  |
+> | [[cards/red-team/Exploiting Certificates\|TECH - T1649 Steal or Forge Authentication Certificates]]                         | 5:55 PM - December 12, 2025  |
+> | [[cards/red-team/images/Exploiting GPOs\|TECH - T1484.001 Exploiting GPOs]]                                                 | 5:03 PM - December 12, 2025  |
 > | [[cards/red-team/Exploiting Automated Relays\|TECH - T1557.01  Exploiting Automated Relays]]                                | 8:02 PM - November 28, 2025  |
 > | [[cards/red-team/Exploiting Kerberos Delegation\|TECH - T1550.003 Exploiting Kerberos Delegation]]                          | 6:49 PM - November 28, 2025  |
 > | [[cards/red-team/Exploiting Permission Delegation\|TECH - T1098 Exploiting Permission Delegation]]                          | 10:50 AM - November 20, 2025 |
@@ -89,9 +96,10 @@
 > | [[cards/red-team/Breaching Active Directory\|Breaching Active Directory]]                                                             |
 > | [[cards/red-team/Enumerating Active Directory (Authenticated Enumeration)\|Enumerating Active Directory (Authenticated Enumeration)]] |
 > | [[cards/red-team/lateral movement and pivoting\|TA0008 - Lateral Movement and Pivoting]]                                              |
-> | [[Exploiting Active Directory\|Exploiting Active Directory]]                                                                          |
+> | [[cards/red-team/Exploiting Active Directory\|Exploiting Active Directory]]                                                           |
 > 
 { .block-language-dataview}
+>[[cards/active-directory/Group Policy Objects#Red Teaming\|Group Policy Objects#Red Teaming]] has a cool way to attack AD with GPO
 
 #### Others
 ---
