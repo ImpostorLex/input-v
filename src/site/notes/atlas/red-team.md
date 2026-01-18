@@ -11,10 +11,13 @@
 > [!info]- TAGLESS RED TEAM NOTES
 >  | Title                                                                                                                          | Last Modified                |
 > | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+> | [[cards/red-team/LSASS Memory Dumping\|TECH - T1003.001 LSASS Memory Dumping]]                                              | 7:09 PM - January 16, 2026   |
+> | [[cards/red-team/SAM Database Dumping\|TECH - T1003.002 SAM Database Dumping]]                                              | 7:09 PM - January 16, 2026   |
+> | [[cards/red-team/Credential Harvesting\|TA0006 - Credential Access]]                                                        | 7:11 PM - January 16, 2026   |
 > | [[cards/red-team/Persistence through SID History\|TECH - T1134.005 Access Token Manipulation: SID-History Injection]]       | 10:05 AM - December 17, 2025 |
 > | [[cards/red-team/Persistence through Tickets\|TECH - T1558.001 Golden Ticket & T1558.002 Silver Ticket]]                    | 10:07 AM - December 17, 2025 |
 > | [[cards/red-team/Persistence through Credentials\|TECH - T1003.006 OS Credential Dumping: DCSync]]                          | 8:22 PM - December 16, 2025  |
-> | [[cards/red-team/Persistence through Group Membership\|TECH - T1098.001 Account Manipulation: Additional AD Group]]         | 10:13 AM - December 17, 2025 |
+> | [[cards/red-team/Persistence through Group Membership\|TECH - T1098.001 Account Manipulation: Additional AD Group]]         | 7:18 PM - January 16, 2026   |
 > | [[cards/red-team/Exploiting Domain Trusts\|TECH - T1558..001 Exploiting Domain Trusts]]                                     | 8:36 PM - December 13, 2025  |
 > | [[cards/red-team/Exploiting Certificates\|TECH - T1649 Steal or Forge Authentication Certificates]]                         | 5:55 PM - December 12, 2025  |
 > | [[cards/red-team/images/Exploiting GPOs\|TECH - T1484.001 Exploiting GPOs]]                                                 | 5:03 PM - December 12, 2025  |

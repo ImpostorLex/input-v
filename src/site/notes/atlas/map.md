@@ -9,7 +9,7 @@
 > [!map]+ My maps
 >  | Map                                                                      |
 > | ------------------------------------------------------------------------ |
-> | [[cards/active-directory/windows active directory\|Active Directory]] |
+> | [[atlas/concepts\|Cool Concepts]]                                     |
 > | [[atlas/windows\|Windows OS]]                                         |
 > | [[atlas/web\|Web]]                                                    |
 > | [[atlas/red-team\|Red Teaming]]                                       |
@@ -17,8 +17,8 @@
 > | [[atlas/malware\|Malware Analysis]]                                   |
 > | [[atlas/linux\|Linux OS]]                                             |
 > | [[atlas/dots\|Dots: no category notes]]                               |
-> | [[atlas/concepts\|Cool Concepts]]                                     |
 > | [[atlas/blue-team\|Blue Teaming]]                                     |
+> | [[cards/active-directory/windows active directory\|Active Directory]] |
 > 
 { .block-language-dataview}
 
