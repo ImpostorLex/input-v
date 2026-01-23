@@ -9,8 +9,8 @@
 **Note:** only use tags if the list is overwhelming.
 | File                                                                               | dg-publish |
 | ---------------------------------------------------------------------------------- | ---------- |
-| [[cards/dots/Certificate Authority\|Certificate Authority]]                     | true       |
 | [[cards/dots/Asymmetric Encryption\|Asymmetric Encryption]]                     | true       |
+| [[cards/dots/Certificate Authority\|Certificate Authority]]                     | true       |
 | [[cards/dots/Hybrid Encrpytion\|Hybrid Encrpytion]]                             | true       |
 | [[cards/dots/Passkeys\|Passkeys]]                                               | true       |
 | [[cards/dots/Pointers in C\|Pointers in C]]                                     | true       |

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/persistence-through-group-membership/"}
 ---
 
-~ [[Persisting Active Directory\|Persisting Active Directory]]
+~ [[cards/red-team/images/Persisting Active Directory\|Persisting Active Directory]]
 ## Summary
 ---
 **What it is:** Achieving persistent privileged access by adding compromised accounts to nested Active Directory groups that indirectly grant Domain Admin privileges, exploiting monitoring gaps where security teams primarily track changes to top-level privileged groups while missing modifications to deeply nested subgroups.

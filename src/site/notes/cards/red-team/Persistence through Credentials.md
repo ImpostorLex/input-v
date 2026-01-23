@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/persistence-through-credentials/"}
 ---
 
-~ [[Persisting Active Directory\|Persisting Active Directory]]
+~ [[cards/red-team/images/Persisting Active Directory\|Persisting Active Directory]]
 ## Summary
 ---
 **What it is:** Using an account with domain replication permissions to perform a DC Sync attack, harvesting credentials from a Domain Controller by mimicking the replication process between DCs.

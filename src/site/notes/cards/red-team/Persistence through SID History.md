@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/persistence-through-sid-history/"}
 ---
 
-~ [[Persisting Active Directory\|Persisting Active Directory]]
+~ [[cards/red-team/images/Persisting Active Directory\|Persisting Active Directory]]
 ## Summary
 ---
 **What it is:** Injecting arbitrary Security Identifiers (SIDs) into a low-privileged account's SID History attribute to grant persistent elevated privileges by placing high-privilege group SIDs (Domain Admins, Enterprise Admins) into the user's access token during authentication without modifying actual group membership.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/red-team/persistence-through-tickets/"}
 ---
 
-~ [[Persisting Active Directory\|Persisting Active Directory]]
+~ [[cards/red-team/images/Persisting Active Directory\|Persisting Active Directory]]
 ## Summary
 ---
 **What it is:** Forging Kerberos Ticket Granting Tickets (Golden Tickets) using the KRBTGT account hash to gain unrestricted domain access, or forging Ticket Granting Service tickets (Silver Tickets) using machine account hashes to gain targeted server access, bypassing normal Kerberos authentication.
