@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/active-directory/active-directory-authenticated-enumeration/","tags":["red-team/ad"]}
 ---
 
-[[cards/active-directory/windows active directory\|windows active directory]]
+~ [[cards/active-directory/windows active directory\|windows active directory]] | ~ [[atlas/red-team\|red-team]]
 ### Introduction
 ---
 Demonstrate the techniques used once we have access to an authenticated account, the learning objectives are:

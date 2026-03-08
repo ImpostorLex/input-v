@@ -11,6 +11,8 @@
 > [!info]- TAGLESS RED TEAM NOTES
 >  | Title                                                                                                                          | Last Modified                |
 > | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+> | [[cards/red-team/MMC RSAT Enumeration\|TECH - T1087.002 - Active Directory MMC RSAT Enumeration]]                           | 8:47 PM - February 24, 2026  |
+> | [[cards/red-team/Credential Injection via Runas\|TECH - T1078.002 - Active Directory Credential Injection via Runas]]       | 8:42 PM - February 24, 2026  |
 > | [[cards/red-team/images/Persistence through GPOs\|Persistence through GPOs]]                                                | 8:57 PM - January 23, 2026   |
 > | [[cards/red-team/Persistence through ACLs\|TECH - T1098.002 - Active Directory AdminSDHolder ACL Injection]]                | 9:06 PM - January 23, 2026   |
 > | [[cards/red-team/LAPS Password Extraction\|TECH - T1003.008 LAPS Password Extraction]]                                      | 5:11 PM - January 18, 2026   |
